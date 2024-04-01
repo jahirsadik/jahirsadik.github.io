@@ -24,10 +24,10 @@ author:
   avatar           : "profile-picture3.jpg"
   name             : "Jahir Sadik Monon"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at CCDS, IUB. Computer Sciene and Engineering, University of Dhaka. Exploring Reinforcement Learning, Multi-modal Learning."
+  bio              : "Research Assistant at CCDS, IUB. Computer Sciene and Engineering, Unive<br>rsity of Dhaka"
   location         : "Dhaka, Bangladesh"
   employer         : #CCDS.ai
-  uri              : jahirsadik.github.io
+  uri              :  jahirsadik.github.io
   email            : "jahirsadikmonon@gmail.com"
 
   # Academic websites
