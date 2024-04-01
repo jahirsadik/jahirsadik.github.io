@@ -21,12 +21,12 @@ repository               : "jahirsadik/jahirsadik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-picture2.jpg"
+  avatar           : "profile-picture3.jpg"
   name             : "Jahir Sadik Monon"
   pronouns         : # example: "she/her"  
-  bio              : "Hooman Being"
+  bio              : "Research Assistant, CCDS, IUB <br> Computer Sciene and Engineering, <br> University of Dhaka <br> Exploring Reinforcement Learning, Multi-modal Learning <br> and other aspects of Artifical Intelligence."
   location         : "Dhaka, Bangladesh"
-  employer         : "CCDS, <br> Independent University Bangladesh"
+  employer         : "<a href="ccds.ai">CCDS, IUB</a>"
   uri              : jahirsadik.github.io
   email            : "jahirsadikmonon@gmail.com"
 
