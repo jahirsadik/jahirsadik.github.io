@@ -24,10 +24,10 @@ author:
   avatar           : "profile-picture3.jpg"
   name             : "Jahir Sadik Monon"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at CCDS, IUB<br>Computer Sciene Graduate,<br>University of Dhaka"
+  bio              : "Research Assistant, <a href="ccds.ai">CCDS, IUB</a><br>Graduated from Computer Sciene & Engineering,<br>University of Dhaka"
   location         : "Dhaka, Bangladesh"
   employer         : #CCDS.ai
-  uri              :  jahirsadik.github.io
+  uri              :  #jahirsadik.github.io
   email            : "jahirsadikmonon@gmail.com"
 
   # Academic websites
