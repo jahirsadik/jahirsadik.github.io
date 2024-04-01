@@ -21,12 +21,12 @@ repository               : "jahirsadik/jahirsadik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-picture1.jpg"
+  avatar           : "profile-picture2.jpg"
   name             : "Jahir Sadik Monon"
   pronouns         : # example: "she/her"  
   bio              : "Hooman Being"
   location         : "Dhaka, Bangladesh"
-  employer         : "CCDS, Independent University Bangladesh"
+  employer         : "CCDS, <br> Independent University Bangladesh"
   uri              : jahirsadik.github.io
   email            : "jahirsadikmonon@gmail.com"
 
