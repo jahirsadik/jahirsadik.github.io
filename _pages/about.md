@@ -1,11 +1,16 @@
 ---
 permalink: /
-title: "Hello world!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m Jahir Sadik Monon, a recent Computer Science and Engineering graduate from the University of Dhaka, Bangladesh. Currently, I am working in some exciting projects as a research assistant (RA) at the Center for Computational & Data Sciences, Independent University Bangladesh. 
+
+Research Interests
+======
+My undergraduate research journey led me to develop a strong interest in Reinforcement Learning. I’m currently engaged in the study of Multi-modal learning, a domain I anticipate will be a key element in the future progression of Artificial Intelligence. I also have a keen interest in exploring the concepts of autonomous systems, sequential decision-making, planning under uncertainty, logical reasoning, and robotics control.
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
