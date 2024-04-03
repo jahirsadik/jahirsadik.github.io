@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Jahir Sadik Monon, a recent Computer Science and Engineering graduate from the University of Dhaka, Bangladesh. Currently, I am working in some exciting projects as a research assistant (RA) at the Center for Computational & Data Sciences, Independent University Bangladesh. 
+I’m Jahir Sadik Monon, a recent Computer Science and Engineering graduate from the University of Dhaka, Bangladesh. Currently, I am working in some exciting projects as a research assistant (RA) at the Center for Computational & Data Sciences, Independent University Bangladesh. My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.
 
 Research Interests
 ======
