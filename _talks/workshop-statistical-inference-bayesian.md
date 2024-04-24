@@ -11,7 +11,7 @@ excerpt: "Attended the week-long workshop on 'Statistical Inference Frequentist 
 
 Attended the week-long workshop on "Statistical Inference Frequentist & Bayesian Estimation" by [Dr. Shahariar Huda](https://sites.google.com/site/statisticsandor/people/faculty-members/shahariar-huda). 
 
-Day 1 of Statistical Inference workshop[^1].
+Day 1 of Statistical Inference workshop[^1]
 =========
 Speaker: Prof Shahariar Huda
 Dr Huda todate is a Professor in Statistics and Operations Research department of Kuwait University. He previously was a professor in King Saud University, Riyadh, lecturer in ISRT, University of Dhaka, Visiting Lecturer in Stat-Math Division, ISI, Calcutta and a lecturer, in Garyounis University, Benghazi. His research interests include Experimental design, Applied Statistics and Biostatistics.
