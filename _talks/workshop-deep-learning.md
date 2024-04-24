@@ -1,7 +1,7 @@
 ---
 title: "Workshop On Hands-on Deep Learning Coding & Code Management"
-collection: workshops
-type: "Workshop"
+collection: talks
+type: "Talk"
 permalink: /talks/workshop-deep-learning
 venue: "Digital Classroom, Independent University Bangladesh"
 date: February 16 @ 9:00 am - February 17 @ 5:00 pm UTC+6
