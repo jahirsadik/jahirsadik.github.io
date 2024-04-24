@@ -6,6 +6,7 @@ permalink: /talks/workshop-deep-learning
 venue: "Digital Classroom, Independent University Bangladesh"
 date: February 16 @ 9:00 am - February 17 @ 5:00 pm UTC+6
 location: "Dhaka, Bangladesh"
+excerpt: 'The paper discusses the challenges and solutions in Cooperative Multi-Agent Reinforcement Learning (MARL), particularly under conditions of reward sparsity and agent heterogeneity. It introduces the CoHet algorithm, which is designed for decentralized training settings with partial observability, aiming to address these challenges. The effectiveness of CoHet is empirically validated in various environments, demonstrating its superiority over existing methods in sparse cooperative tasks that necessitate agent diversity.'
 ---
 
 [More information about the workshop here](https://ccds.ai/event/workshop-on-hands-on-deep-learning-coding-code-management/)
