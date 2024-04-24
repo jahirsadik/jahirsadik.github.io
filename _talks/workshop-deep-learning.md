@@ -1,5 +1,5 @@
 ---
-title: "Workshop On Hands-on Deep Learning Coding & Code Management"
+title: "Workshop on Hands-on Deep Learning Coding & Code Management"
 collection: workshops
 type: "Workshop"
 permalink: /talks/workshop-deep-learning
