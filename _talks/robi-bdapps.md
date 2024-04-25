@@ -1,7 +1,7 @@
 ---
 title: "2nd Runner-up at bdapps Mobile App Ideathon powered by Robi"
 collection: achievements
-type: "Achievement"
+type: "Achievements"
 permalink: /talks/robi-bdapps
 venue: "Department of Computer Science and Engineering, University of Dhaka"
 date: September 25, 2023
