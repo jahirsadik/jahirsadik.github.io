@@ -4,9 +4,9 @@ collection: achievements
 type: "Achievement"
 permalink: /talks/robi-bdapps
 venue: "Department of Computer Science and Engineering, University of Dhaka"
-date: 2023-25-10
+date: September 25, 2023
 location: "Dhaka, Bangladesh"
-excerpt: "Secured the third position in bdapps Mobile App Ideathon 2023 powered by Robi for my application idea titled **MediLink**"
+excerpt: "Secured the third position in bdapps Mobile App Ideathon 2023 powered by Robi for my application idea titled MediLink"
 ---
 
 Event Description

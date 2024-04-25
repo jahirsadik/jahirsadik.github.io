@@ -34,13 +34,21 @@ Day 4:
 Workshop concludes today with Bayesian Analysis and Hypothesis Testing. It was a great learning opportunity thanks to Dr. Huda.
 
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-1.jpg" alt="workshop-1" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-2.jpg" alt="workshop-2" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-6.jpg" alt="workshop-6" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-3.jpg" alt="workshop-3" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-4.jpg" alt="workshop-4" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-5.jpg" alt="workshop-5" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-6.jpg" alt="workshop-6" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-7.jpg" alt="workshop-7" width="600" height = "800"/>
+
 <img src="/images/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-8.jpg" alt="workshop-8" width="600" height = "800"/>
 
 [More information about the workshop here](https://ccds.ai/event/workshop-on-statistical-inference-frequentist-bayesian-estimation/)
