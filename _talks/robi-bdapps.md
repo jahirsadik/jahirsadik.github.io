@@ -1,5 +1,5 @@
 ---
-title: "bdapps Mobile App Ideathon powered by Robi"
+title: "2nd Runner-up at bdapps Mobile App Ideathon powered by Robi"
 collection: achievements
 type: "Achievement"
 permalink: /talks/robi-bdapps
