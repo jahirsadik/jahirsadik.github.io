@@ -17,8 +17,11 @@ As a Center for Computational & Data Sciences (CCDS) research assistant, I had t
 
 Some photos from the event
 ======
+
 ![workshop-deep-learning-image-1](/images/workshop-deep-learning/workshop-deep-learning-1.jpg)
+
 ![workshop-deep-learning-image-2](/images/workshop-deep-learning/workshop-deep-learning-2.jpg)
+
 ![workshop-deep-learning-image-3](/images/workshop-deep-learning/workshop-deep-learning-3.jpg)
 
 [More photos from the event](https://www.facebook.com/CCDS.IUB/posts/pfbid073FjdXcHUk9BcYxZ9ugpuETSYviPxdvSS5X1EjPsTTtaf3vdDmCwu7z3RRczj1Nbl)
