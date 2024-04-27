@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer Science and Engineering graduate from [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. My current research projects include Integration of Mixture-of-experts in Large Multi-modal models, Agent-based LMMs, and LMM prompting. My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.
+I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer Science and Engineering graduate from [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. My current research projects include Integration of Mixture-of-experts in Large Multi-modal models (LMMs), Agent-based LMMs, and LMM prompting. My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.
 
 # Research Interests
 
@@ -17,7 +17,7 @@ My undergraduate research journey led me to develop a strong interest in Reinfor
 My primary research interest is in Reinforcement learning. More specifically, cooperative/competitive multi-agent reinforcement learning (MARL). I am deeply interested in extending my undergraduate thesis work and learning about the applications of MARL in multi-robot tasks. I have been recently studying about safe-RL and world model based planning. Other than that, I am interested in learning about inverse reinforcement learning, learning from demonstrations, etc.
 
 ### Multi-Modal Learning
-I’m intrigued by the recent advances in Multi-Modal Learning research, due to its potential to transform system understanding and decision-making. I see it as a key area in the next AI revolution.
+I’m intrigued by the recent advances in Multi-Modal Learning research, due to its potential to transform system understanding and decision-making. I see it as a key area in the next AI revolution. Currently at CCDS, I am actively involved in multiple projects related to LMMs - incorporating mixture-of-experts in LMMs for improving the efficiency, scalability and performance, integrating multi-agent based solutions to LMM frameworks for multi-task generalizability, and improving the performance of LMMs on false-premise based datasets & multi-modal reasoning tasks.
 
 ### Natural Language Processing
 Despite my limited exposure to this research field, I am deeply fascinated by recent developments in
