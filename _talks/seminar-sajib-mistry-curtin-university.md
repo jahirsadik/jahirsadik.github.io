@@ -6,7 +6,7 @@ permalink: /talks/seminar-sajib-mistry-curtin-university
 venue: "Digital Classroom, Independent University Bangladesh"
 date: April 18, 2024
 location: "Dhaka, Bangladesh"
-excerpt: "Attended the insightful seminar arranged by Sajib Mistry, PhD. Senior Lecturer, School of Elec Eng, Comp and Math Sci, Faculty of Science and Engineering, Curtin University, Australia"
+excerpt: "Attended the insightful seminar arranged by Sajib Mistry, PhD. Senior Lecturer, School of Elec Eng, Comp and Math Sci, Faculty of Science and Engineering, Curtin University, Australia."
 ---
 
 Attended the seminar under the title “Accelerating Innovation: Unleashing Machine Learning in Distributed Services” on April 18, 2024. The seminar was supervised and facilitated by: Sajib Mistry, PhD. Senior Lecturer, School of Elec Eng, Comp and Math Sci, Faculty of Science and Engineering, Curtin University, Australia at Independent University Bangladesh, Digital Classroom. This presentation offered a deep dive into the research endeavours of the Curtin High-Performance Intelligent Systems (HIPS) group, specifically focusing on their expertise in micro-service architectures and distributed machine learning across a spectrum of industries and use cases. Additionally, sir discussed the evolving landscape of Computer Science research in Australia and explored the future potential collaboration prospects.

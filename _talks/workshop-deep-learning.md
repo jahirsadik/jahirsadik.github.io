@@ -6,7 +6,7 @@ permalink: /talks/workshop-deep-learning
 venue: "Digital Classroom, Independent University Bangladesh"
 date: February 16 @ 9:00 am - February 17 @ 5:00 pm UTC+6
 location: "Dhaka, Bangladesh"
-excerpt: "Worked alongside Dr. AKM Mahbubur Rahman sir to arrange the 'Workshop on Hands-on Deep Learning Coding & Code Management at Independent University Bangladesh'"
+excerpt: "Worked alongside Dr. AKM Mahbubur Rahman sir to arrange the 'Workshop on Hands-on Deep Learning Coding & Code Management at Independent University Bangladesh'."
 ---
 
 As a Center for Computational & Data Sciences (CCDS) research assistant, I had the opportunity to work alongside [AKM Mahbubur Rahman](https://ccds.ai/entry/akm-rahman/), PhD, Director Data Science Wing, to arrange and present in the two-day workshop on “Hands-on Deep Learning Coding & Code Management” scheduled on February 16-17, 2024. The workshop included various topics such as - Introduction to deep learning programming, Developing deep learning models from scratch using numpy, Training and fine tuning existing deep learning models/CNNs, Hands on experiment design and result analysis, Guidelines for standard coding practice for deep learning. **My responsibility** was to present alongside Dr Mahbubur sir and thoroghly explain/present the hands-on coding examples & exercises. It was my first workshop as a presenter. I learned a lot and enjoyed sharing deep learning insights with an enthusiastic audience. The event was a great opportunity for undergraduates to explore deep learning. Their active participation and Dr. Mahbubur sir's thorough guidance made it a success.

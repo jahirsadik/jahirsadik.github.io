@@ -13,6 +13,18 @@ I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer
 
 My undergraduate research journey led me to develop a strong interest in Reinforcement Learning. I am currently engaged in the study of Multi-modal learning, a domain I anticipate will be a key element in the future progression of artificial intelligence. I also have a keen interest in exploring the concepts of autonomous systems, sequential decision-making, planning under uncertainty, logical reasoning, and robotics control.
 
+### Reinforcement Learning
+My primary research interest is in Reinforcement learning. More specifically, cooperative/competitive multi-agent reinforcement learning (MARL). I am deeply interested in extending my undergraduate thesis work and learning about the applications of MARL in multi-robot tasks. I have been recently studying about safe-RL and world model based planning. Other than that, I am interested in learning about inverse reinforcement learning, learning from demonstrations, etc.
+
+### Multi-Modal Learning
+I’m intrigued by the recent advances in Multi-Modal Learning research, due to its potential to transform system understanding and decision-making. I see it as a key area in the next AI revolution.
+
+### Natural Language Processing
+Despite my limited exposure to this research field, I am deeply fascinated by recent developments in
+Large Language Models and their capabilities. My interest was particularly piqued while studying
+several papers on AI Explainability. I am also eager to explore the field’s applicability in reducing the
+spread of social-media misinformation and in information verification.
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
