@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer Science and Engineering graduate from [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. My current research projects include Mixture-of-experts in Large Multi-modal models, Agent-based LMMs, and LMM prompting. My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.
+I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer Science and Engineering graduate from [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. My current research projects include Integration of Mixture-of-experts in Large Multi-modal models, Agent-based LMMs, and LMM prompting. My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.
 
 # Research Interests
 
