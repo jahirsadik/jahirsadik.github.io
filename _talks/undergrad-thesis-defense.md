@@ -13,10 +13,7 @@ excerpt: "Me and my thesis partner defended our undergraduate thesis in the Depa
 
 Some photos from the day
 ======
-
-![undergrad-thesis-image1](/images/undergrad-thesis-day/undergrad-thesis-day2.jpg)
-![undergrad-thesis-image1](/images/undergrad-thesis-day/undergrad-thesis-day1.jpg)
-<img src="/images/undergrad-thesis-day/undergrad-thesis-day2.jpg" width="500">
-<img src="/images/undergrad-thesis-day/undergrad-thesis-day1.jpg" width="500">
+<img src="/images/undergrad-thesis-day/undergrad-thesis-day2.jpg" width="300">
+<img src="/images/undergrad-thesis-day/undergrad-thesis-day1.jpg" width="300">
 
 [Thesis Poster (pdf)](/files/undergrad-thesis-poster.pdf)
