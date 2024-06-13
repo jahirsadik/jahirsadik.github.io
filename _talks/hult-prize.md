@@ -17,4 +17,4 @@ In Bangladesh, half the population suffer from malnutrition & half of the female
 
 [Certificate](/files/Khubzun_Jahir%20Sadik%20Monon_University%20of%20Dhaka_Dhaka.pdf)
 
-[More Information](/files/Khubzun-Hult-Prize-Semi-Updated.pdf)
+[More Information about the Project](/files/Khubzun-Hult-Prize-Semi-Updated.pdf)
