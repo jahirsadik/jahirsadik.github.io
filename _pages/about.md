@@ -1,25 +1,30 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I’m Jahir Sadik Monon. I have recently (January, 2024) graduated from Computer Science and Engineering graduate from [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. My current research projects include work on reinforcement learning, agent-based planning, integration of mixture-of-experts in Large Multi-modal models (LMMs), and LMM Chain-of-thought reasoning. *My goal for the near future is to pursue a PhD in a subject that aligns with my research interests, allowing me to expand my knowledge.*
+Welcome to my homepage! I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. ***My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests***.
 
 # Research Interests
-My primary interest is in the field of Reinforcement Learning. I am currently engaged in the study of Multi-modal learning, a domain I anticipate will be a key element in the future progression of artificial intelligence. I also have a keen interest in exploring the concepts of sequential decision making, multi-agent systems, embodied AI agents, robot learning, and autonomous systems.
+My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
+My undergraduate research, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Riashat Islam](https://riashat.github.io/) for Reinforcement Learning, and with [Md Mofijul Islam](https://mmiakashs.github.io/) and [Muntasir Wahed](https://mwahed.com/) for Multi-modal learning and Agent-based planning.
+<!-- 
+## Research Questions
 
-### Reinforcement Learning
-My undergraduate research endeavors led me to develop a strong interest in the broader domain of sequential decision making, planning under uncertainty, and coordination among autonomous agent. My *undergraduate thesis*, titled *"Learning to Cooperate Among Heterogeneous Agents via Intrinsic Rewards"*, was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am deeply interested in extending my undergraduate thesis work and learning about the applications of MARL in multi-robot tasks. I have been recently studying about safe-RL and world model based planning. Other than that, I am interested in learning about inverse reinforcement learning, learning from demonstrations, creating internal world models from experience etc.
+## Research Collaboration -->
+
+<!-- ### Reinforcement Learning
+My undergraduate research endeavors led me to develop a strong interest in the broader domain of sequential decision making, planning under uncertainty, and coordination among autonomous agent. My *undergraduate thesis*, titled *"Learning to Cooperate Among Heterogeneous Agents via Intrinsic Rewards"*, was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). 
 
 ### Multi-Modal Learning
 I’m intrigued by the recent advances in Multi-Modal Learning research, and see it as a key area in the next AI revolution, as integrating multiple modalities will essential for autonomous agents in real-world. Currently at CCDS, I am actively involved in multiple projects related to LMMs - incorporating mixture-of-experts in LMMs for improving the efficiency, scalability and performance, integrating multi-agent based solutions to LMM frameworks for multi-task generalizability, and improving the performance of LMMs on false-premise based datasets & multi-modal reasoning tasks.
 
 ### Robot Learning
-Despite my limited exposure to this research field, I am also interested in the development intelligent robotic systems that can perceive, plan, and act in complex environments and improve performance with experience. I am exploring recent researches that enable machines to exhibit flexible and adaptable behavior, acquired autonomously through learning.
+Despite my limited exposure to this research field, I am also interested in the development intelligent robotic systems that can perceive, plan, and act in complex environments and improve performance with experience. I am exploring recent researches that enable machines to exhibit flexible and adaptable behavior, acquired autonomously through learning. -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
