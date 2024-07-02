@@ -6,7 +6,7 @@ excerpt: 'The paper discusses the challenges and solutions in Cooperative Multi-
 date: 2024-05-29
 # venue: 'Machine Learning Journal (MLJ), Springer'
 status: 'Under Review in Machine Learning Journal (MLJ), Springer' 
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.researchsquare.com/article/rs-4498672/v1'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 Abstract
