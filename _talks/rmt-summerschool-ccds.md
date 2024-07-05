@@ -11,7 +11,7 @@ excerpt: "Participated in the '1st CCDS Summer School on Random Matrix Theory' l
 
 In the end of June, CCDS arranged a summer school on Random Matrix Theory. We were fortunate enough to be lectured by [Arijit Chakrabarty](https://www.isical.ac.in/~arijitc/), Associate Professor, Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, who is an expert in this topic. 
 
-#### Topics of the lectures
+## Topics of the lectures
 - Lecture 1: Basics of random matrices – Wigner and Wishart matrices, empirical spectral distribution, the method of moments, Stieltjes transform.
 - Lecture 2: Convergence to the Wigner semicircle law – a complete proof via the method of moments.
 - Lecture 3: Study of Wishart matrices, the convergence of the empirical spectral distribution to the Marchenko-Pastur law – a complete proof - via Stieltjes transform.
