@@ -13,7 +13,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/resume.pdf
+    url: https://drive.google.com/file/d/1MuPu0n5n581o3lXPiXZR9lM0YnvpNnFU/view?usp=sharing
   
   - title: "Publications"
     url: /publications/
