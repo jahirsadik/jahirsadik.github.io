@@ -1,5 +1,5 @@
 ---
-permalink: /relevant-courses/
+permalink: /relevant-courses
 title: "Relevant Courses"
 author_profile: true
 redirect_from:
