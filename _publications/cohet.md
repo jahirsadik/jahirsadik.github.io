@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards"
 collection: publications
-permalink: /publication/cohet-ijcai
+permalink: /publication/cohet
 excerpt: 'The paper discusses the challenges and solutions in Cooperative Multi-Agent Reinforcement Learning (MARL), particularly under conditions of reward sparsity and agent heterogeneity. It introduces the CoHet algorithm, which is designed for decentralized training settings with partial observability, aiming to address these challenges. The effectiveness of CoHet is empirically validated in various environments, demonstrating its superiority over existing methods in sparse cooperative tasks that necessitate agent diversity.'
 date: 2024-08-15
 # venue: 'Machine Learning Journal (MLJ), Springer'
