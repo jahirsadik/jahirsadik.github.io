@@ -20,5 +20,8 @@ redirect_from:
 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/jahirsadikmonon/intermediate-machine-learning) | Kaggle | <span style="float: right;">2022</span>
 
+[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=ST8MT101424) | Udemy | <span style="float: right;">2021</span>
+
 [Python for Everybody 4 Course Specialization](https://www.coursera.org/specializations/python) | Coursera | <span style="float: right;">2020</span>
 
+[MIT 18.06 Linear Algebra by Gilbert Strang](https://web.mit.edu/18.06/www/) | OpenCourseWare | <span style="float: right;">2020</span>
