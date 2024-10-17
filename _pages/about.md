@@ -13,6 +13,24 @@ Welcome to my homepage! I have recently (January, 2024) graduated from [Departme
 My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
 My undergraduate research, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Riashat Islam](https://riashat.github.io/) for Reinforcement Learning, and with [Md Mofijul Islam](https://mmiakashs.github.io/) and [Muntasir Wahed](https://mwahed.com/) for Multi-modal learning and Agent-based planning.
 
+## Current Research Projects
+
+### Vision Language Models for Agent-Controller Representations in Reinforcement Learning  
+**Organization:** [CCDS](https://ccds.ai/)  
+**Advisors:** [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
+<!-- **Responsibilities:** Exploring VLM representations for agent control, leveraging inverse dynamics models for control-relevant latent representations. Currently developing a codebase using VLM models (e.g., BLIP-2, LLaVA) and evaluating in RL environments like Matterport, Habitat, and Softgym. -->
+
+
+### Multilingual Speech Tokenizers via Language Model (LM)-guided Contextual Distillation  
+**Organization:** [CCDS](https://ccds.ai/)  
+**Advisors:** [Md Mofijul Islam](https://mmiakashs.github.io/), [Aman Chadha](https://aman.info/), [Tasnim Mohiuddin](https://taasnim.github.io/)  
+<!-- **Responsibilities:** Building on [DM-Codec](https://openreview.net/forum?id=UFwefiypla), working with LM-guided contextual distillation for speech tokenizers. Currently applying it to the Multilingual LibriSpeech (MLS) dataset with audio preprocessing (e.g., [lhotse](https://github.com/lhotse-speech/lhotse)) to improve speech tokenization for multiple languages. -->
+
+### Scene Graphs and Knowledge Graphs for Multimodal Agent-based Planning  
+**Organization:** [CCDS](https://ccds.ai/)  
+**Advisors:** [Muntasir Wahed](https://mwahed.com/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
+<!-- **Responsibilities:** Investigating agent-based reasoning and chain-of-thought methods for Visual Question Answering (VQA). Currently employing Scene Graphs and Knowledge Graphs with custom datasets for QA tasks. -->
+
 <!-- 
 ## Research Questions
 
