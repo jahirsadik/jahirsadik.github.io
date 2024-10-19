@@ -6,9 +6,12 @@ redirect_from:
 #   - /relevant-courses.html
 ---
 
-# Relevant Courses & Certificates
+# Relevant Learning Resources
 
 [1st CCDS Summer School on Random Matrix Theory](https://ccds.ai/1st-ccds-summer-school-on-random-matrix-theory/) | CCDS | <span style="float: right;">2024</span>
+
+[Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) | Book 
+<!-- |  <span style="float: right;">2022</span> -->
 
 [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning) | Coursera | <span style="float: right;">2022-23</span>
 
