@@ -5,7 +5,7 @@ type: "Workshops"
 permalink: /talks/cail-dl-llm-workshop-24
 venue: "Department of Computer Science and Engineering, University of Dhaka, Bangladesh"
 date: October 18 @ 9:00 am - October 19 @ 5:00 pm UTC+6, 2024
-location: "Dhaka, Bangladesh"
+location: "Bangladesh"
 excerpt: "Lectured in the Hands-On Deep Learning & Open-source Large Language Model Workshop at CAILab, CSEDU."
 ---
 
