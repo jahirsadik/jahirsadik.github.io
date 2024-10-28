@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my homepage! 👋"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-*Welcome to my homepage!* 👋
-
-I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
+Hello, my name is Jahir Sadik Monon. I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
 
 # Research Interests
 My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
