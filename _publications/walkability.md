@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/walkability
 excerpt: 'Crowdsourced research project of a team of ~70 to collect and analyze a crowdsourced dataset on the walkability of Dhaka City. The dataset, available on Kaggle, provides insights into factors influencing walking experiences in the city.'
 date: 2023-09-05
-# venue: 'Machine Learning Journal (MLJ), Springer'
+venue: 'Publicly available dataset on Kaggle'
 # status: 'Under Review at The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25)' 
 # paperurl: 'https://arxiv.org/abs/2408.06503'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
