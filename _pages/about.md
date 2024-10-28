@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
+*Welcome to my homepage!* 👋
+
+I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
 
 # Research Interests
 My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
-My undergraduate research, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Riashat Islam](https://riashat.github.io/) for Reinforcement Learning, and with [Md Mofijul Islam](https://mmiakashs.github.io/) and [Muntasir Wahed](https://mwahed.com/) for Multi-modal learning and Agent-based planning.
+My undergraduate research, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Riashat Islam](https://riashat.github.io/) on Reinforcement Learning, and with [Md Mofijul Islam](https://mmiakashs.github.io/) and [Muntasir Wahed](https://mwahed.com/) on Multi-modal learning and Agent-based planning.
 
-## Current Research Projects
+## 📑 Current Research Projects
 
 ### Vision Language Models for Agent-Controller Representations in Reinforcement Learning  
 Organization: [CCDS](https://ccds.ai/)  
@@ -31,7 +33,8 @@ Organization: [CCDS](https://ccds.ai/)
 Advisors: [Muntasir Wahed](https://mwahed.com/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
 
 
-## Application Development Projects (Web Applications, Mobile Applications, Windows Applications)
+
+## 👨🏻‍💻 Application Development Projects 
 
 ### DUStudyLink (2023)
 **Web application for collaborative study materials** \| [GitHub](https://github.com/jahirsadik/du-studylink)  
