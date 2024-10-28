@@ -9,8 +9,7 @@ status: 'Publicly available dataset on Kaggle'
 # paperurl: 'https://arxiv.org/abs/2408.06503'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-# Description
-### Dhaka City Walkability: A Crowdsourced Dataset
+## Dhaka City Walkability: A Crowdsourced Dataset
 
 As part of a collaborative research project, I led a team of around 70 junior year students from the Department of Computer Science and Engineering, University of Dhaka, to gather and analyze a comprehensive dataset on the walkability of various areas in Dhaka city. This initiative aimed to quantify the factors that contribute to pedestrian-friendly environments, such as road conditions, safety, and accessibility.
 

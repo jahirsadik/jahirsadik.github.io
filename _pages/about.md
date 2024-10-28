@@ -29,6 +29,28 @@ Advisors: [Md Mofijul Islam](https://mmiakashs.github.io/), [Aman Chadha](https:
 ### Scene Graphs and Knowledge Graphs for Multimodal Agent-based Planning  
 Organization: [CCDS](https://ccds.ai/)  
 Advisors: [Muntasir Wahed](https://mwahed.com/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
+
+
+## Application Development Projects (Web Applications, Mobile Applications, Windows Applications)
+
+### DUStudyLink (2023)
+**Web application for collaborative study materials** \| [GitHub](https://github.com/jahirsadik/du-studylink)  
+Designed database schema and implemented data-model classes while integrating the backend architecture with Firebase Firestore.
+
+### Salvare (2022)
+**Android application for online resource management** \| [GitHub](https://github.com/jahirsadik/salvare)  
+Implemented data model classes, user navigation, and local database handling using SQL. Created the user interface using Flutter and Dart.
+
+### Apellai (2021)
+**Online music streaming application for Android** \| [GitHub](https://github.com/jahirsadik/apellai-kotlin)  
+Handled API calls from streaming services, created the database schema, integrated with PostgreSQL, and developed the backend using Kotlin in Android Studio.
+
+### !Typo (2019)
+**Interactive journal application for Windows** \| [GitHub](https://github.com/jahirsadik/not-typo)  
+Developed using C programming language with SDL library for the graphical user interface.
+
+*Additional projects related to application development, machine learning, and lab work can be found on my [GitHub profile](https://github.com/jahirsadik).*
+
 <!-- **Responsibilities:** Investigating agent-based reasoning and chain-of-thought methods for Visual Question Answering (VQA). Currently employing Scene Graphs and Knowledge Graphs with custom datasets for QA tasks. -->
 
 <!-- 
