@@ -55,11 +55,26 @@ Developed using C programming language with SDL library for the graphical user i
 
 ## Education
 
-<img src="/images/Dhaka_University_logo.png" height="250" width="200" alt="Dhaka University Logo">
+<br>
+<img src="/images/Dhaka_University_logo.png" height="200" width="150" alt="Dhaka University Logo">
 
 *Bachelor of Science (B.Sc.) <br>
 Department of Computer Science and Engineering <br> 
-University of Dhaka, Bangladesh*
+University of Dhaka, Bangladesh* <br>
+
+<br>
+<img src="/images/Dhaka_College.png" height="200" width="150" alt="Dhaka College Logo">
+
+*Science, Higher Secondary Certificate (HSC) <br>
+Dhaka College, Bangladesh* <br>
+
+<br>
+<img src="/images/Government_Laboratory_High_School.png" height="200" width="150" alt="Government Laboratory High School Logo">
+
+*Science, Secondary School Certificate (SSC) <br>
+Government Laboratory High School, Dhaka, Bangladesh* <br>
+
+
 
 <!-- **Responsibilities:** Investigating agent-based reasoning and chain-of-thought methods for Visual Question Answering (VQA). Currently employing Scene Graphs and Knowledge Graphs with custom datasets for QA tasks. -->
 
