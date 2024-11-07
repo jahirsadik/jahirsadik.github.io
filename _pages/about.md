@@ -52,6 +52,15 @@ Developed using C programming language with SDL library for the graphical user i
 
 *Additional projects related to application development, machine learning, and lab work can be found on my [GitHub profile](https://github.com/jahirsadik).*
 
+
+## Education
+
+<img src="/images/Dhaka_University_logo.png" width="300">
+
+*Bachelor of Science (B.Sc.) <br>
+Department of Computer Science and Engineering <br> 
+University of Dhaka, Bangladesh*
+
 <!-- **Responsibilities:** Investigating agent-based reasoning and chain-of-thought methods for Visual Question Answering (VQA). Currently employing Scene Graphs and Knowledge Graphs with custom datasets for QA tasks. -->
 
 <!-- 
