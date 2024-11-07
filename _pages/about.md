@@ -55,7 +55,7 @@ Developed using C programming language with SDL library for the graphical user i
 
 ## Education
 
-<img src="/images/Dhaka_University_logo.png" width="300">
+<img src="/images/Dhaka_University_logo.png" height="250" width="200" alt="Dhaka University Logo">
 
 *Bachelor of Science (B.Sc.) <br>
 Department of Computer Science and Engineering <br> 
