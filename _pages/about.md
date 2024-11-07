@@ -54,25 +54,27 @@ Developed using C programming language with SDL library for the graphical user i
 
 
 ## Education
-
 <br>
 <img src="/images/Dhaka_University_logo.png" height="200" width="150" alt="Dhaka University Logo">
 
-*Bachelor of Science (B.Sc.) <br>
-Department of Computer Science and Engineering <br> 
+January 2019 - December 2023 <br>
+*Bachelor of Science (B.Sc.)*<br>
+*Department of Computer Science and Engineering <br> 
 University of Dhaka, Bangladesh* <br>
 
 <br>
 <img src="/images/Dhaka_College.png" height="200" width="150" alt="Dhaka College Logo">
 
-*Science, Higher Secondary Certificate (HSC) <br>
-Dhaka College, Bangladesh* <br>
+September 2016 - April 2018 <br>
+*Science, Higher Secondary Certificate (HSC)*<br>
+*Dhaka College, Bangladesh* <br>
 
 <br>
 <img src="/images/Government_Laboratory_High_School.png" height="200" width="150" alt="Government Laboratory High School Logo">
 
-*Science, Secondary School Certificate (SSC) <br>
-Government Laboratory High School, Dhaka, Bangladesh* <br>
+January 2009 - January 2016 <br>
+*Science, Secondary School Certificate (SSC)* <br>
+*Government Laboratory High School Dhaka, Bangladesh* <br>
 
 
 
