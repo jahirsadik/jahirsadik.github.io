@@ -13,6 +13,11 @@ Hello, my name is Jahir Sadik Monon ([🗣️](https://www.name-coach.com/jahirs
 My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
 My undergraduate thesis, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain of Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Dr. Riashat Islam](https://riashat.github.io/) on Reinforcement Learning, and with [Dr. Md Mofijul Islam](https://mmiakashs.github.io/), [Amar Chadha](https://scholar.google.com/citations?user=gPGQuBQAAAAJ&hl=en), [Dr. Tasnim Mohiuddin](https://taasnim.github.io/) and [Muntasir Wahed](https://mwahed.com/) on Multi-modal learning and Agent-based planning.
 
+## 📰 Recent News/Updates
+📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got accepted as an *extended abstract* at 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2025).<br>
+🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US (December 2024)).
+
+
 ## 📑 Current Research Projects
 
 ### Vision Language Models for Agent-Controller Representations in Reinforcement Learning  
