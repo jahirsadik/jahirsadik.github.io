@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/cohet
 excerpt: 'The paper discusses the challenges and solutions in Cooperative Multi-Agent Reinforcement Learning (MARL), particularly under conditions of reward sparsity and agent heterogeneity. It introduces the CoHet algorithm, which is designed for decentralized training settings with partial observability, aiming to address these challenges. The effectiveness of CoHet is empirically validated in various environments, demonstrating its superiority over existing methods in sparse cooperative tasks that necessitate agent diversity.'
 date: 2024-08-15
-venue: 'The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)'
+venue: 'The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS) as an Extended Abstract'
 status: 'Accepted as an *Extended Abstract*' 
 paperurl: 'https://arxiv.org/abs/2408.06503'
-citation: 'Jahir Sadik Monon, Deeparghya Dutta Barua, and Md. Mosaddek Khan. *Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards*. 2024. arXiv: 2408 . 06503 [cs.MA]. URL: https://arxiv.org/abs/2408.06503.'
+# citation: 'Jahir Sadik Monon, Deeparghya Dutta Barua, and Md. Mosaddek Khan. *Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards*. 2024. arXiv: 2408 . 06503 [cs.MA]. URL: https://arxiv.org/abs/2408.06503.'
 ---
 Abstract
 ======
