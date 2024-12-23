@@ -4,7 +4,7 @@ collection: workshops
 type: "Workshops"
 permalink: /talks/workshop-deep-learning
 venue: "Room 6015, Independent University Bangladesh"
-date: Dec 12 @ 9:00 am - Dec 13 @ 5:00 pm UTC+6
+date: Dec 12, 2024 @ 9:00 am - Dec 13,2024 @ 5:00 pm UTC+6
 location: "Dhaka, Bangladesh"
 excerpt: "Worked alongside Dr. AKM Mahbubur Rahman sir to arrange the '2nd Workshop on Deep Learning Code Management at Independent University Bangladesh'."
 ---
@@ -17,8 +17,11 @@ Some photos from the event
 ======
 
 <img src="/images/workshop-deep-learning-2/image1.jpg" width="500"> <br>
+
 <img src="/images/workshop-deep-learning-2/image2.jpg" width="500"> <br>
+
 <img src="/images/workshop-deep-learning-2/image3.jpg" width="500"> <br>
+
 <img src="/images/workshop-deep-learning-2/image4.jpg" width="500"> <br>
 
 <!-- 
@@ -29,6 +32,8 @@ Some photos from the event
 ![workshop-deep-learning2-image-3](/images/workshop-deep-learning-2/image3.jpg)
 
 ![workshop-deep-learning2-image-4](/images/workshop-deep-learning-2/image4.jpg) -->
+
+[Event Link](https://ccds.ai/event/workshop-on-hands-on-deep-learning-coding-code-management-2/)
 
 [More photos from the event](https://www.facebook.com/story.php?story_fbid=600387635838365&id=100076014025792&rdid=nObSDTDiBspCckpY)
 
