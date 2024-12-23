@@ -9,14 +9,14 @@ redirect_from:
 
 Hello, my name is Jahir Sadik Monon ([🗣️](https://www.name-coach.com/jahirsadik-monon)). I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
 
+## 📰 Recent News/Updates
+📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got **accepted** as an *extended abstract* at the **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**.<br>
+🔬 Got **nominated for the National Science and Technology (NST) Fellowship** by the Ministry of Science and Technology, Bangladesh.<br>
+🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US.<br>
+
 # Research Interests
 My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
 My undergraduate thesis, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain of Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Dr. Riashat Islam](https://riashat.github.io/) on Reinforcement Learning, and with [Dr. Md Mofijul Islam](https://mmiakashs.github.io/), [Amar Chadha](https://scholar.google.com/citations?user=gPGQuBQAAAAJ&hl=en), [Dr. Tasnim Mohiuddin](https://taasnim.github.io/) and [Muntasir Wahed](https://mwahed.com/) on Multi-modal learning and Agent-based planning.
-
-## 📰 Recent News/Updates
-📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got accepted as an *extended abstract* at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).<br>
-🔬 Got nominated for the National Science and Technology (NST) Fellowship by the Ministry of Science and Technology, Bangladesh.<br>
-🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US.<br>
 
 
 ## 📑 Current Research Projects
