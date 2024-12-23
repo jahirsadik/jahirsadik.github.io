@@ -10,8 +10,8 @@ redirect_from:
 Hello, my name is Jahir Sadik Monon ([🗣️](https://www.name-coach.com/jahirsadik-monon)). I have recently (January, 2024) graduated from [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://en.wikipedia.org/wiki/University_of_Dhaka), Bangladesh. Currently, I am working as a research assistant (RA), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at the Center for Computational & Data Sciences ([CCDS](https://ccds.ai/)), Independent University Bangladesh. *My goal for the near future is to pursue a graduate degree in a domain that aligns with my research interests*.
 
 ## 📰 Recent News/Updates
-📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got **accepted** as an *extended abstract* at the **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**.<br>
-🔬 Got **nominated for the National Science and Technology (NST) Fellowship** by the Ministry of Science and Technology, Bangladesh.<br>
+📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got <span style="color:green;">**accepted**</span> as an *extended abstract* at the <span style="color:green;">**24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**</span>.<br>
+🔬 Got <span style="color:purple;">**nominated for the National Science and Technology (NST) Fellowship**</span> by the Ministry of Science and Technology, Bangladesh.<br>
 🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US.<br>
 
 # Research Interests
