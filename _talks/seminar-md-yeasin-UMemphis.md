@@ -2,7 +2,7 @@
 title: "Seminar on Omnipresence of Artificial Intelligence: Challenges, Opportunities and Synergies"
 collection: seminars
 type: "Seminars"
-permalink: talks/seminar-md-yeasin-UMemphis
+permalink: /xstalks/seminar-md-yeasin-UMemphis
 venue: "CCDS Lab (Room 6002), Independent University Bangladesh"
 date: December 9, 2024
 location: "Dhaka, Bangladesh"
