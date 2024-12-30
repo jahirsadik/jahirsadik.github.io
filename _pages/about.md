@@ -27,7 +27,7 @@ Advisors: [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](http
 <!-- **Responsibilities:** Exploring VLM representations for agent control, leveraging inverse dynamics models for control-relevant latent representations. Currently developing a codebase using VLM models (e.g., BLIP-2, LLaVA) and evaluating in RL environments like Matterport, Habitat, and Softgym. -->
 
 
-### A Study on the Effectiveness of Promptable VLM-embeddings for SOTA RL Methods   
+### A Study on the Effectiveness of Promptable VLM-representations for SOTA RL Methods   
 Organization: [CCDS](https://ccds.ai/)  
 Advisors: [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)    
 <!-- **Responsibilities:** Building on [DM-Codec](https://openreview.net/forum?id=UFwefiypla), working with LM-guided contextual distillation for speech tokenizers. Currently applying it to the Multilingual LibriSpeech (MLS) dataset with audio preprocessing (e.g., [lhotse](https://github.com/lhotse-speech/lhotse)) to improve speech tokenization for multiple languages. -->
