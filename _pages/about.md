@@ -15,26 +15,26 @@ Hello, my name is Jahir Sadik Monon ([🗣️](https://www.name-coach.com/jahirs
 🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US.<br>
 
 # Research Interests
-My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, embodied AI agents, and robot learning. <br> 
-My undergraduate thesis, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain of Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on three research projects with [Dr. Riashat Islam](https://riashat.github.io/) on Reinforcement Learning, and with [Dr. Md Mofijul Islam](https://mmiakashs.github.io/), [Amar Chadha](https://scholar.google.com/citations?user=gPGQuBQAAAAJ&hl=en), [Dr. Tasnim Mohiuddin](https://taasnim.github.io/) and [Muntasir Wahed](https://mwahed.com/) on Multi-modal learning and Agent-based planning.
+My primary interest is in the field of **Reinforcement Learning**. I also have a keen interest in multi-agent systems, and robot learning. <br> 
+My undergraduate thesis, supervised by [Dr. Md Mosaddek Khan](https://mmkhansajeeb.com/), was in the domain of Reinforcement Learning, more specifically, Multi-agent Reinforcement Learning (MARL). I am currently working on research projects with [Dr. Riashat Islam](https://riashat.github.io/) on Reinforcement Learning, and with [Dr. Md Mofijul Islam](https://mmiakashs.github.io/), [Amar Chadha](https://scholar.google.com/citations?user=gPGQuBQAAAAJ&hl=en), [Dr. Tasnim Mohiuddin](https://taasnim.github.io/) and [Muntasir Wahed](https://mwahed.com/) on Multi-modal learning and Agent-based planning.
 
 
 ## 📑 Current Research Projects
 
-### Vision Language Models for Agent-Controller Representations in Reinforcement Learning  
+### VLM-Driven Multi-Step Inverse Models for Learning Agent-Centric Representations in RL 
 Organization: [CCDS](https://ccds.ai/)  
 Advisors: [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
 <!-- **Responsibilities:** Exploring VLM representations for agent control, leveraging inverse dynamics models for control-relevant latent representations. Currently developing a codebase using VLM models (e.g., BLIP-2, LLaVA) and evaluating in RL environments like Matterport, Habitat, and Softgym. -->
 
 
-### Multilingual Speech Tokenizers via Language Model (LM)-guided Contextual Distillation  
+### A study on the effectiveness of promptable VLM-embeddings for SOTA RL methods   
 Organization: [CCDS](https://ccds.ai/)  
-Advisors: [Md Mofijul Islam](https://mmiakashs.github.io/), [Aman Chadha](https://aman.info/), [Tasnim Mohiuddin](https://taasnim.github.io/)  
+Advisors: [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)    
 <!-- **Responsibilities:** Building on [DM-Codec](https://openreview.net/forum?id=UFwefiypla), working with LM-guided contextual distillation for speech tokenizers. Currently applying it to the Multilingual LibriSpeech (MLS) dataset with audio preprocessing (e.g., [lhotse](https://github.com/lhotse-speech/lhotse)) to improve speech tokenization for multiple languages. -->
 
-### Scene Graphs and Knowledge Graphs for Multimodal Agent-based Planning  
+### Knowledge Graph and LLM-guided SQL Query Generation  
 Organization: [CCDS](https://ccds.ai/)  
-Advisors: [Muntasir Wahed](https://mwahed.com/), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
+Advisors: [Muntasir Wahed](https://mwahed.com/), [AKM Mahbubur Rahman](https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl=en), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
 
 
 
