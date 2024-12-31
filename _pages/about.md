@@ -83,7 +83,7 @@ January 2009 - January 2016 <br>
 *Government Laboratory High School Dhaka, Bangladesh* <br>
 
 <br>
-A [list]((https://jahirsadik.github.io/relevant-courses/)) of extracurricular courses completed. 
+A [list](https://jahirsadik.github.io/relevant-courses/) of extracurricular courses completed. 
 
 
 <!-- **Responsibilities:** Investigating agent-based reasoning and chain-of-thought methods for Visual Question Answering (VQA). Currently employing Scene Graphs and Knowledge Graphs with custom datasets for QA tasks. -->
