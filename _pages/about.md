@@ -34,7 +34,7 @@ Advisors: [Riashat Islam](https://riashat.github.io/), [Dr. Amin Ahsan Ali](http
 
 ### Knowledge Graph and LLM-guided SQL Query Generation  
 Organization: [CCDS](https://ccds.ai/)  
-Advisors: [Muntasir Wahed](https://mwahed.com/), [AKM Mahbubur Rahman](https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl=en), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
+Advisors: [Muntasir Wahed](https://mwahed.com/), [Dr. AKM Mahbubur Rahman](https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl=en), [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)  
 
 
 
