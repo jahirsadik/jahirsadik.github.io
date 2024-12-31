@@ -1,12 +1,10 @@
 ---
 permalink: /relevant-courses/
-title: "Relevant Courses"
+title: "Relevant Courses & Material"
 author_profile: true
 redirect_from:
 #   - /relevant-courses.html
 ---
-
-# Relevant Learning Resources
 
 [1st CCDS Summer School on Random Matrix Theory](https://ccds.ai/1st-ccds-summer-school-on-random-matrix-theory/) | CCDS | <span style="float: right;">2024</span>
 
