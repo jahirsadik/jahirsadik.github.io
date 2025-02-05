@@ -11,7 +11,7 @@ Hello, my name is Jahir Sadik Monon ([🗣️](https://www.name-coach.com/jahirs
 
 ## 📰 Recent News/Updates
 📜 My undergraduate thesis [research](https://jahirsadik.github.io/publication/cohet) on heterogeneous MARL coordination got <span style="color:green;">**accepted**</span> as an *extended abstract* at the <span style="color:green;">**24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**</span>.<br>
-🔬 Awarded the <span style="color:purple;">**National Science and Technology (NST) Fellowship**</span> by the Ministry of Science and Technology, Bangladesh for my research project ("VLM-Driven Multi-Step Inverse Models for Learning Agent-Centric Representations in RL"). Merit rank 11th/1260 MS/MSc candidates. <br>
+🔬 Awarded the <span style="color:purple;">**National Science and Technology (NST) Fellowship**</span> by the Ministry of Science and Technology, Bangladesh for my RL research project. Merit rank 11th out of 1260 candidates. <br>
 🏫 I have applied for Fall-2025 PhD programs to my preferred research labs in the US.<br>
 
 # Research Interests
