@@ -4,7 +4,7 @@ collection: workshops
 type: "Workshops"
 permalink: /talks/workshop-statistical-inference-bayesian
 venue: "Independent University Bangladesh"
-date: February 25 @ 10:00 am - February 29 @ 4:00 pm UTC+6
+date: February 25, 2025 @ 10:00 am - February 29, 2025 @ 4:00 pm UTC+6
 location: "Dhaka, Bangladesh"
 excerpt: "Attended the week-long workshop on 'Statistical Inference Frequentist & Bayesian Estimation' by Dr. Shahariar Huda."
 ---
