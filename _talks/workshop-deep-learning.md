@@ -4,7 +4,7 @@ collection: workshops
 type: "Workshops"
 permalink: /talks/workshop-deep-learning
 venue: "Digital Classroom, Independent University Bangladesh"
-date: February 16, 2025 @ 9:00 am - February 17, 2025 @ 5:00 pm UTC+6
+date: February 16, 2024 - February 17, 2024 
 location: "Dhaka, Bangladesh"
 excerpt: "Worked alongside Dr. AKM Mahbubur Rahman sir to arrange the 'Workshop on Hands-on Deep Learning Coding & Code Management at Independent University Bangladesh'."
 ---

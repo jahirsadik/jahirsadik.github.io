@@ -4,7 +4,7 @@ collection: workshops
 type: "Workshops"
 permalink: /talks/workshop-deep-learning
 venue: "Room 6015, Independent University Bangladesh"
-date: Dec 12, 2024 @ 9:00 am - Dec 13,2024 @ 5:00 pm UTC+6
+date: Dec 12, 2024 @ 9:00 am - Dec 13, 2024 @ 5:00 pm UTC+6
 location: "Dhaka, Bangladesh"
 excerpt: "Worked alongside Dr. AKM Mahbubur Rahman sir to arrange the '2nd Workshop on Deep Learning Code Management at Independent University Bangladesh'."
 ---

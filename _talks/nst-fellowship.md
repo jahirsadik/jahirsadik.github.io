@@ -6,7 +6,7 @@ permalink: /talks/nst-fellowhip
 venue: "Ministry of Science and Technology, Bangladesh"
 date: February 4th, 2025
 location: "Dhaka, Bangladesh"
-excerpt: "Have been awarded the National Science and Technology (NST) Fellowship by the Ministry of Science and Technology, Bangladesh for my research project on multimodal RL"
+excerpt: "Have been awarded the National Science and Technology (NST) Fellowship by the Ministry of Science and Technology, Bangladesh for my research project on multimodal RL."
 ---
 
 I am honored to have been awarded the **National Science and Technology (NST) Fellowship** by the Ministry of Science and Technology, Bangladesh for my research project:
