@@ -13,7 +13,7 @@ I am honored to have been awarded the **National Science and Technology (NST) Fe
 
 > "VLM-Driven Multi-Step Inverse Models for Learning Agent-Centric Representations in RL"
 
-I secured **Merit Rank 11th out of 1112 MS/MSc candidates** in this highly competitive selection process. 🔗 [Official Announcement](https://most.portal.gov.bd/sites/default/files/files/most.portal.gov.bd/npfblock//2.%20Biological%20and%20Medical%20Science%20Group%20PhD%2C%20Mphil%20and%20MS.%202024-25.pdf)
+I secured Merit Rank **11th out of 1260** MS/MSc candidates (Physical Sciences group) in this highly competitive selection process. 🔗 [Official Announcement](https://most.portal.gov.bd/sites/default/files/files/most.portal.gov.bd/npfblock//3.%20Physical%20Science%20Group%20PhD%2C%20Mphil%20and%20MS.%202024-25.pdf)
 
 ### 🏆 About the NST Fellowship
 
