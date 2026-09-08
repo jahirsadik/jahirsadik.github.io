@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started mentoring an undergraduate researcher through the UMass [Early Research Scholars Program](https://www.cics.umass.edu/ersp) on accessibility-critical object datasets for assistive navigation.
+Started mentoring an undergraduate researcher through the UMass [Early Research Scholars Program](https://sites.google.com/umass.edu/ersp-cics) on accessibility-critical object datasets for assistive navigation.

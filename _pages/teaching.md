@@ -11,8 +11,8 @@ nav_order: 2
 
 ## Advising
 
-**Research Mentor**, [Early Research Scholars Program (ERSP)](https://www.cics.umass.edu/ersp), UMass Amherst — February–May 2026
-Mentored UMass undergraduate Keshav Garg in curating an open-source dataset of accessibility-critical objects and benchmarking state-of-the-art segmentation models for assistive navigation.
+**Research Mentor**, [Early Research Scholars Program (ERSP)](https://sites.google.com/umass.edu/ersp-cics), UMass Amherst — February–May 2026
+Mentored UMass undergraduate [Keshav Garg](https://www.linkedin.com/in/keshavgargcs) in curating an open-source dataset of accessibility-critical objects and benchmarking state-of-the-art segmentation models for assistive navigation.
 
 ## Workshops
 

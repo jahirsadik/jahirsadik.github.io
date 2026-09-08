@@ -11,4 +11,4 @@ location: Independent University Bangladesh
 
 **Role:** Lecturer, February–July 2024.
 
-Lectured CIS-101 students on basic Python programming, application development, and introductory AI as part of the Coding for All initiative at Independent University Bangladesh.
+Lectured CIS-101 students on basic Python programming, application development, and introductory AI as part of the [Coding for All](http://iub.ac.bd/about/special-initiatives) initiative at Independent University Bangladesh.
