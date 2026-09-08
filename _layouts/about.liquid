@@ -60,9 +60,12 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2 class="about-section">
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">recent news</a>
-      </h2>
+      <div class="section-head about-section">
+        <h2>
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">recent news</a>
+        </h2>
+        <time datetime="{{ site.time | date: '%Y-%m-%d' }}">updated {{ site.time | date: '%b %-d, %Y' }}</time>
+      </div>
       {% include news.liquid limit=true %}
     {% endif %}
 

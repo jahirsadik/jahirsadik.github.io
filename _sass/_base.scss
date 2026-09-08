@@ -1750,3 +1750,34 @@ html[data-theme="dark"] .profile .profile-images {
     pointer-events: auto;
   }
 }
+
+// ---------------------------------------------------------------------------
+// About page: "recent news" heading with a right-aligned "last updated" stamp.
+// ---------------------------------------------------------------------------
+
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+
+  h2 {
+    margin: 0;
+  }
+
+  time {
+    font-size: 0.8125rem;
+    color: #8a8276;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+
+  @media (max-width: 640px) {
+    flex-direction: column;
+    gap: 2px;
+  }
+}
+
+html[data-theme="dark"] .section-head time {
+  color: #6e6e6e;
+}

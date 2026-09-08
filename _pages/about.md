@@ -10,7 +10,7 @@ profile:
   image_dark: prof_pic_dark.png # shown when the dark theme is active
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>LGRC A308, Manning CICS, UMass</p>
+    <p>LGRC A308, UMass Amherst</p>
     <p>Amherst, Massachusetts</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
