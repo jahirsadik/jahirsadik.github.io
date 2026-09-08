@@ -2,6 +2,7 @@
 layout: page
 title: "Hult Prize 2021 - Asia Regional Finalists & Campus Champions"
 description: "Won the first position in 'Hult Prize 2021 on campus round at the University of Dhaka' & went on to become the Asia Regional Finalists at Hult Prize Impact Summits 2021"
+img: assets/img/hult-prize.png
 importance: 12
 category: achievements
 date_text: "April 15, 2021"
@@ -12,7 +13,13 @@ redirect_from:
 
 **April 15, 2021** &middot; University of Dhaka
 
-# Hult Prize
+<div class="row justify-content-center">
+  <div class="col-sm-4 mt-3">
+    {% include figure.liquid path="assets/img/hult-prize.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+## Hult Prize
 [Hult Prize](https://www.hultprize.org/about-us) is one of the most prestigious platform for youth addressing and eradicating the crucial social challenges and global issues in today’s world. The Hult Prize 2021 Challenge was "Food For Good: Transforming food into a vehicle for change." University of Dhaka participated in Hult Prize 2021 and represented Bangladesh among the thousands of other universities at the global stage. Young social entrepreneurs were supposed to come up with a new business idea related with 'Food', which will build a viable food enterprises that will impact the lives of 10M people in the next decade while strengthening communities, increasing incomes, feeding the hungry and creating jobs.
 
 ### Our Team

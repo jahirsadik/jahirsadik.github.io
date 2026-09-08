@@ -24,13 +24,19 @@ In the end of June, CCDS arranged a summer school on Random Matrix Theory. We we
 
 Some pictures from the event:
 
-<img src="/assets/img/rmt-ccds/class-image.jpeg" alt="rmt-1" width="600" height = "800"/>
-
-<img src="/assets/img/rmt-ccds/group-photo.jpg" alt="rmt-2" width="600" height = "800"/>
-
-<img src="/assets/img/rmt-ccds/certificate-reception.jpg" alt="rmt-3" width="600" height = "800"/>
-
-<img src="/assets/img/rmt-ccds/certificate.jpg" alt="rmt-4" width="600" height = "800"/>
-
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/rmt-ccds/class-image.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/rmt-ccds/group-photo.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/rmt-ccds/certificate-reception.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/rmt-ccds/certificate.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
 [More information about the summer school on RMT here](https://ccds.ai/1st-ccds-summer-school-on-random-matrix-theory/)

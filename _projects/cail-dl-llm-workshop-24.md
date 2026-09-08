@@ -23,14 +23,23 @@ I conducted the session on Deep Learning in the workshop, where my undergraduate
 
 ## Some photos from the event
 
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-2.jpg" width="450">
-
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-1.jpg" width="450">
-
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-3.jpg" width="450">
-
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-5.jpg" width="450">
-
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-4.jpg" width="450">
-
-<img src="/assets/img/cail-dl-llm-workshop-24/cail-workshop-6.jpg" width="450">
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/cail-dl-llm-workshop-24/cail-workshop-6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>

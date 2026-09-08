@@ -14,9 +14,7 @@ children:
   - title: divider
   - title: background
     permalink: /background/
-  - title: relevant courses
-    permalink: /relevant-courses/
   - title: divider
-  - title: news
+  - title: all news
     permalink: /news/
 ---

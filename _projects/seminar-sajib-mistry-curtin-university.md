@@ -19,8 +19,14 @@ Attended the seminar under the title “Accelerating Innovation: Unleashing Mach
 
 ## Some photos from the event
 
-![curtin-university-seminar-image-1](/assets/img/curtin-university-seminar/seminar-curtin-1.jpg)
-
-![curtin-university-seminar-image-2](/assets/img/curtin-university-seminar/seminar-curtin-2.jpg)
-
-![curtin-university-seminar-image-3](/assets/img/curtin-university-seminar/seminar-curtin-3.jpg)
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/curtin-university-seminar/seminar-curtin-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/curtin-university-seminar/seminar-curtin-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/curtin-university-seminar/seminar-curtin-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>

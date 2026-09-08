@@ -21,8 +21,13 @@ In the ideathon, I presented an application titled **MediLink**. MediLink was an
 
 ## Some photos from the event
 
-![robi-bdapps-image-1](/assets/img/robi-bdapps/robi-bdapps-1.jpg)
-
-![robi-bdapps-image-2](/assets/img/robi-bdapps/robi-bdapps-2.jpg)
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/robi-bdapps/robi-bdapps-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/robi-bdapps/robi-bdapps-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
 [More from the event](https://www.youtube.com/watch?v=FEKAZzdrdc8)

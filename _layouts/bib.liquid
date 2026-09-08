@@ -189,7 +189,11 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
+      {% if entry.award and entry.award_url %}
+        <a href="{{ entry.award_url }}" class="award-link btn btn-sm z-depth-0" role="button">
+          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+        </a>
+      {% elsif entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
@@ -240,6 +244,9 @@
       {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+      {% endif %}
+      {% if entry.dataset %}
+        <a href="{{ entry.dataset }}" class="btn btn-sm z-depth-0" role="button">Dataset</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
@@ -362,7 +369,7 @@
       {% endif %}
     {% endif %}
 
-    {% if entry.award %}
+    {% if entry.award and entry.award_url == nil %}
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>

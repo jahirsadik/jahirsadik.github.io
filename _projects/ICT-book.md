@@ -2,7 +2,7 @@
 layout: page
 title: "My book on Information and Communications Technology (ICT) got published"
 description: "Co-authored book on ICT for entrance exams got published"
-img: assets/img/ICT-book/cover.jpg
+img: assets/img/ICT-book/page-1.jpg
 importance: 13
 category: achievements
 date_text: "February 3rd, 2021"
@@ -17,7 +17,17 @@ I co-authored my first book ([ICT Hacks - A Basic Book for All Competitive Exams
 
 ======
 
-<img src="/assets/img/ICT-book/ICT Hacks book_pages-to-jpg-0001.jpg" width="300">
-<img src="/assets/img/ICT-book/ICT Hacks book_pages-to-jpg-0002.jpg" width="300">
-<img src="/assets/img/ICT-book/ICT Hacks book_pages-to-jpg-0003.jpg" width="300">
-<img src="/assets/img/ICT-book/ICT Hacks book_pages-to-jpg-0004.jpg" width="300">
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/ICT-book/page-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/ICT-book/page-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/ICT-book/page-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/ICT-book/page-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>

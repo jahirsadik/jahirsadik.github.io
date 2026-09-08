@@ -19,10 +19,15 @@ The goal of this competition was to recognize model IPA transcription from Benga
 
 ## Some photos from the event
 
-![dataverse-image-1](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-1.jpg)
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
-![dataverse-image-2](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-2.jpg)
-
-![dataverse-image-3](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-3.jpg)
-
-![dataverse-image-4](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-4.jpg)

@@ -2,6 +2,7 @@
 layout: page
 title: "Awarded the National Science and Technology (NST) Fellowship by the Ministry of Science and Technology, Bangladesh"
 description: "Have been awarded the National Science and Technology (NST) Fellowship by the Ministry of Science and Technology, Bangladesh for my research project on multimodal RL."
+img: assets/img/nst-fellowship.jpg
 importance: 1
 category: achievements
 date_text: "February 4th, 2025"
@@ -12,11 +13,17 @@ redirect_from:
 
 **February 4th, 2025** &middot; Ministry of Science and Technology, Bangladesh
 
+<div class="row justify-content-center">
+  <div class="col-sm-5 mt-3">
+    {% include figure.liquid path="assets/img/nst-fellowship.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
 I am honored to have been awarded the **National Science and Technology (NST) Fellowship** by the Ministry of Science and Technology, Bangladesh for my research project:
 
 > "VLM-Driven Multi-Step Inverse Models for Learning Agent-Centric Representations in RL"
 
-I secured Merit Rank **11th out of 1260** MS/MSc candidates (Physical Sciences group) in this highly competitive selection process. 🔗 [Official Announcement](https://most.portal.gov.bd/sites/default/assets/pdf/files/most.portal.gov.bd/npfblock//3.%20Physical%20Science%20Group%20PhD%2C%20Mphil%20and%20MS.%202024-25.pdf)
+I secured Merit Rank **11th out of 1260** MS/MSc candidates (Physical Sciences group) in this highly competitive selection process.
 
 ### 🏆 About the NST Fellowship
 
@@ -35,7 +42,6 @@ This project explores how Vision-Language Model (VLM) representations can enhanc
 - Utilizing multi-step inverse models to learn control-relevant latent representations for RL agents.
 
 - Evaluating the approach in RL environments such as Matterport, Habitat, and Softgym.
-
 
 *This fellowship provides critical support for my ongoing research, and I look forward to sharing more insights as the project progresses!*
  

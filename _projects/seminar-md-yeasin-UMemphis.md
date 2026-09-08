@@ -20,6 +20,11 @@ Attended the seminar titled “Omnipresence of Artificial Intelligence: Challeng
 
 ## Some photos from the event
 
-![umemphis-seminar-image-1](/assets/img/seminar-umemphis-md-yeasin/image1-memphis.jpg)
-
-![umemphis-seminar-image-2](/assets/img/seminar-umemphis-md-yeasin/image3-memphis.jpg)
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/seminar-umemphis-md-yeasin/image1-memphis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/seminar-umemphis-md-yeasin/image3-memphis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>

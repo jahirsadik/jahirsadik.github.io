@@ -19,22 +19,20 @@ As a Research Assistant at the Center for Computational & Data Sciences (CCDS), 
 
 ## Some photos from the event
 
-<img src="/assets/img/workshop-deep-learning-2/image1.jpg" width="500"> <br>
-
-<img src="/assets/img/workshop-deep-learning-2/image2.jpg" width="500"> <br>
-
-<img src="/assets/img/workshop-deep-learning-2/image3.jpg" width="500"> <br>
-
-<img src="/assets/img/workshop-deep-learning-2/image4.jpg" width="500"> <br>
-
-<!-- 
-![workshop-deep-learning2-image-1]()
-
-![workshop-deep-learning2-image-2](/assets/img/workshop-deep-learning-2/image2.jpg)
-
-![workshop-deep-learning2-image-3](/assets/img/workshop-deep-learning-2/image3.jpg)
-
-![workshop-deep-learning2-image-4](/assets/img/workshop-deep-learning-2/image4.jpg) -->
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-deep-learning-2/image1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-deep-learning-2/image2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-deep-learning-2/image3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-deep-learning-2/image4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
 [Event Link](https://ccds.ai/event/workshop-on-hands-on-deep-learning-coding-code-management-2/)
 

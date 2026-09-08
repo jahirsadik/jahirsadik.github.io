@@ -415,7 +415,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 2.4rem;
+    font-size: 1.7rem;
 
     a {
       img {
@@ -770,7 +770,8 @@ footer.sticky-bottom {
           }
         }
 
-        .award {
+        .award,
+        .award-link {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
@@ -1525,4 +1526,61 @@ figure.cover {
 
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
+}
+
+// ---------------------------------------------------------------------------
+// Site-specific tweaks (jahirsadik.github.io)
+// ---------------------------------------------------------------------------
+
+// About page: subtitle reads as secondary info
+.post-header .desc {
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+}
+
+// About page: breathing room between bio, news, publications and social icons
+.about-section {
+  margin-top: 3rem;
+}
+
+.about-more {
+  margin: 1rem 0 3rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+}
+
+.social.about-social {
+  margin-top: 3rem;
+}
+
+// Pronunciation link on the name
+a.name-pronounce {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+
+  &:hover {
+    color: var(--global-theme-color);
+  }
+}
+
+// Content pages: space before section headings, images never overflow the column
+.post article {
+  h2 {
+    margin-top: 2.5rem;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+// Compact two-column table used for honors (year on the right)
+table.honors {
+  td:last-child {
+    white-space: nowrap;
+    text-align: right;
+    color: var(--global-text-color-light);
+  }
 }

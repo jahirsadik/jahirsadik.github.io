@@ -9,11 +9,21 @@ nav_order: 2
 
 {% include courses.liquid %}
 
-## Advising
+## advising
 
-**Research Mentor**, [Early Research Scholars Program (ERSP)](https://sites.google.com/umass.edu/ersp-cics), UMass Amherst — February–May 2026
-Mentored UMass undergraduate [Keshav Garg](https://www.linkedin.com/in/keshavgargcs) in curating an open-source dataset of accessibility-critical objects and benchmarking state-of-the-art segmentation models for assistive navigation.
+<div class="entry-list">
+  <div class="course-item">
+    <h3 class="course-title">Research Mentor — <a href="https://sites.google.com/umass.edu/ersp-cics">Early Research Scholars Program (ERSP)</a></h3>
+    <div class="course-meta">
+      <span class="course-term">February – May 2026</span>
+      <span class="course-instructor">Manning CICS, UMass Amherst</span>
+    </div>
+    <div class="course-description">
+      Mentored UMass undergraduate <a href="https://www.linkedin.com/in/keshavgargcs">Keshav Garg</a> in curating an open-source dataset of accessibility-critical objects and benchmarking state-of-the-art segmentation models for assistive navigation.
+    </div>
+  </div>
+</div>
 
-## Workshops
+## workshops
 
 Workshops I have lectured in or helped organise (deep learning, LLMs, code management) are listed under [activities → workshops](/activities/#workshops).

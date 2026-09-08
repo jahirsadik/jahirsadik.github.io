@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: all news
 permalink: /news/
 nav: false
 ---

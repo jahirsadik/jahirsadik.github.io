@@ -33,23 +33,32 @@ Confidence intervals, it's interpretation and moving on to Bayesian estimation
 ## Day 4:
 Workshop concludes today with Bayesian Analysis and Hypothesis Testing. It was a great learning opportunity thanks to Dr. Huda.
 
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-1.jpg" alt="workshop-1" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-2.jpg" alt="workshop-2" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-6.jpg" alt="workshop-6" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-3.jpg" alt="workshop-3" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-4.jpg" alt="workshop-4" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-5.jpg" alt="workshop-5" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-6.jpg" alt="workshop-6" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-7.jpg" alt="workshop-7" width="600" height = "800"/>
-
-<img src="/assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-8.jpg" alt="workshop-8" width="600" height = "800"/>
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/workshop-statistical-inference-bayesian/workshop-statistical-inference-bayesian-8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
 [More information about the workshop here](https://ccds.ai/event/workshop-on-statistical-inference-frequentist-bayesian-estimation/)
 
