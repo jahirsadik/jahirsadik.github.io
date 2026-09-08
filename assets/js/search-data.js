@@ -58,15 +58,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/background/";
               },
-            },{id: "dropdown-relevant-courses",
-              title: "relevant courses",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/relevant-courses/";
-              },
-            },{id: "dropdown-news",
-              title: "news",
+            },{id: "dropdown-all-news",
+              title: "all news",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -158,17 +151,17 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-dean-s-honor-award-and-the-bachelor-s-merit-scholarship-from-the-university-of-dhaka",
           title: 'Received the Dean’s Honor Award and the Bachelor’s Merit Scholarship from the University...',
           description: "",
-          section: "News",},{id: "news-started-my-ms-phd-in-computer-science-at-umass-amherst-joining-the-daros-lab-with-dr-donghyun-kim-honored-to-receive-the-paul-utgoff-memorial-graduate-scholarship-from-cics",
+          section: "News",},{id: "news-started-my-ms-phd-in-computer-science-at-umass-amherst-joining-the-daros-lab-with-dr-donghyun-kim",
           title: 'Started my MS/PhD in Computer Science at UMass Amherst, joining the DARoS Lab...',
           description: "",
-          section: "News",},{id: "news-bappa-our-benchmark-of-agents-plans-and-pipelines-for-text-to-sql-generation-with-ccds-collaborators-is-out-on-arxiv",
-          title: 'BAPPA, our benchmark of agents, plans and pipelines for Text-to-SQL generation (with CCDS...',
+          section: "News",},{id: "news-our-paper-bappa-a-benchmark-of-agents-plans-and-pipelines-for-text-to-sql-generation-with-collaborators-at-ccds-is-out-on-arxiv",
+          title: 'Our paper BAPPA, a benchmark of agents, plans and pipelines for Text-to-SQL generation...',
           description: "",
           section: "News",},{id: "news-our-paper-guidenav-a-vision-only-robotic-navigation-assistant-for-blind-travelers-was-accepted-at-hri-2026",
           title: 'Our paper GuideNav, a vision-only robotic navigation assistant for blind travelers, was accepted...',
           description: "",
-          section: "News",},{id: "news-started-mentoring-an-undergraduate-researcher-through-the-umass-early-research-scholars-program-on-accessibility-critical-object-datasets-for-assistive-navigation",
-          title: 'Started mentoring an undergraduate researcher through the UMass Early Research Scholars Program on...',
+          section: "News",},{id: "news-honored-to-receive-the-paul-utgoff-memorial-graduate-scholarship-from-the-manning-college-of-information-and-computer-sciences-umass-amherst",
+          title: 'Honored to receive the Paul Utgoff Memorial Graduate Scholarship from the Manning College...',
           description: "",
           section: "News",},{id: "news-guidenav-received-an-honorable-mention-systems-track-top-3-6-of-accepted-papers-at-hri-2026",
           title: 'GuideNav received an Honorable Mention (Systems Track, top 3.6% of accepted papers) at...',
@@ -250,12 +243,12 @@ ninja.data = [{
               window.location.href = "/activities/workshop-statistical-inference-bayesian/";
             },},{id: "teachings-cis-101-coding-for-all-initiative",
           title: 'CIS-101 — Coding for All Initiative',
-          description: "Lecturer. Taught CIS-101 students basic Python, application development, and introductory AI as part of IUB&#39;s Coding for All initiative.",
+          description: "Taught CIS-101 students basic Python, application development, and introductory AI as part of IUB&#39;s Coding for All initiative.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/iub-coding-for-all/";
             },},{id: "teachings-compsci-403-introduction-to-robotics-mechanics-dynamics-and-control",
           title: 'COMPSCI 403 — Introduction to Robotics: Mechanics, Dynamics, and Control',
-          description: "Graduate Teaching Assistant. Supported the course through lectures, TA hours, and grading, and designed a Reusable Learning Object on coordinate frames and transformations to build students&#39; spatial visualization skills for robotic manipulation. [RLO outcome](https://docs.google.com/presentation/d/e/2PACX-1vS4J6xc0o-a4ClP4FhgmiEPf0Tnrnx8v05uv0AzRiPB315D_HmlzVputLp11gNiLD5YaHJ0dfAFJvQQ/pub?start=false&amp;loop=false&amp;delayms=3000)",
+          description: "Supported the course through lectures, TA hours, and grading, and designed a Reusable Learning Object on coordinate frames and transformations to build students&#39; spatial visualization skills for robotic manipulation.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/umass-compsci-403/";
             },},{
