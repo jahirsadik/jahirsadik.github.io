@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "workshops and sessions I have lectured in or helped organise.",
+          description: "courses I have taught or assisted, and students I have mentored.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -36,6 +36,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/activities/";
+              },
+            },{id: "dropdown-workshops",
+              title: "workshops",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/activities/#workshops";
               },
             },{id: "dropdown-presentations-amp-blogs",
               title: "presentations &amp; blogs",
@@ -148,6 +155,24 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-the-national-science-and-technology-nst-fellowship-by-the-ministry-of-science-and-technology-bangladesh-for-my-rl-research-project-merit-rank-11th-out-of-1260-candidates-details",
           title: 'Awarded the National Science and Technology (NST) Fellowship by the Ministry of Science...',
           description: "",
+          section: "News",},{id: "news-received-the-dean-s-honor-award-and-the-bachelor-s-merit-scholarship-from-the-university-of-dhaka",
+          title: 'Received the Dean’s Honor Award and the Bachelor’s Merit Scholarship from the University...',
+          description: "",
+          section: "News",},{id: "news-started-my-ms-phd-in-computer-science-at-umass-amherst-joining-the-daros-lab-with-dr-donghyun-kim-honored-to-receive-the-paul-utgoff-memorial-graduate-scholarship-from-cics",
+          title: 'Started my MS/PhD in Computer Science at UMass Amherst, joining the DARoS Lab...',
+          description: "",
+          section: "News",},{id: "news-bappa-our-benchmark-of-agents-plans-and-pipelines-for-text-to-sql-generation-with-ccds-collaborators-is-out-on-arxiv",
+          title: 'BAPPA, our benchmark of agents, plans and pipelines for Text-to-SQL generation (with CCDS...',
+          description: "",
+          section: "News",},{id: "news-our-paper-guidenav-a-vision-only-robotic-navigation-assistant-for-blind-travelers-was-accepted-at-hri-2026",
+          title: 'Our paper GuideNav, a vision-only robotic navigation assistant for blind travelers, was accepted...',
+          description: "",
+          section: "News",},{id: "news-started-mentoring-an-undergraduate-researcher-through-the-umass-early-research-scholars-program-on-accessibility-critical-object-datasets-for-assistive-navigation",
+          title: 'Started mentoring an undergraduate researcher through the UMass Early Research Scholars Program on...',
+          description: "",
+          section: "News",},{id: "news-guidenav-received-an-honorable-mention-systems-track-top-3-6-of-accepted-papers-at-hri-2026",
+          title: 'GuideNav received an Honorable Mention (Systems Track, top 3.6% of accepted papers) at...',
+          description: "",
           section: "News",},{id: "projects-my-book-on-information-and-communications-technology-ict-got-published",
           title: 'My book on Information and Communications Technology (ICT) got published',
           description: "Co-authored book on ICT for entrance exams got published",
@@ -223,34 +248,29 @@ ninja.data = [{
           description: "Attended the week-long workshop on &#39;Statistical Inference Frequentist &amp; Bayesian Estimation&#39; by Dr. Shahariar Huda.",
           section: "Projects",handler: () => {
               window.location.href = "/activities/workshop-statistical-inference-bayesian/";
-            },},{id: "teachings-workshop-on-hands-on-deep-learning-coding-amp-code-management",
-          title: 'Workshop on Hands-on Deep Learning Coding &amp;amp; Code Management',
-          description: "Two-day workshop at IUB covering deep learning programming from scratch in NumPy, training and fine-tuning CNNs, experiment design and result analysis, and coding standards for deep learning. I presented alongside Dr. AKM Mahbubur Rahman and walked through the hands-on coding examples and exercises. [Slides](https://docs.google.com/presentation/d/1TA0gqa-n65c8HUFutPH_H9RikpTa_Hqs/edit?usp=sharing) · [Event page](https://ccds.ai/event/workshop-on-hands-on-deep-learning-coding-code-management/) · [More](/activities/workshop-deep-learning/)",
+            },},{id: "teachings-cis-101-coding-for-all-initiative",
+          title: 'CIS-101 — Coding for All Initiative',
+          description: "Lecturer. Taught CIS-101 students basic Python, application development, and introductory AI as part of IUB&#39;s Coding for All initiative.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/dl-code-management-1/";
-            },},{id: "teachings-hands-on-deep-learning-amp-open-source-llm-workshop",
-          title: 'Hands-On Deep Learning &amp;amp; Open-source LLM Workshop',
-          description: "Two-day workshop at CAILab, CSE, University of Dhaka. I conducted the Deep Learning session with Prothito Shovon Majumder, introducing undergraduates and industry professionals to MLPs, PyTorch, and getting started with large language models. [Slides](https://docs.google.com/presentation/d/1wR4QoBrS45KUEGONRlDq9AvhGI8RBaHAvg-u-XDu4FY/edit?usp=sharing) · [Workshop page](https://cognistorm.ai/llm-workshop) · [More](/activities/cail-dl-llm-workshop-24/)",
+              window.location.href = "/teachings/iub-coding-for-all/";
+            },},{id: "teachings-compsci-403-introduction-to-robotics-mechanics-dynamics-and-control",
+          title: 'COMPSCI 403 — Introduction to Robotics: Mechanics, Dynamics, and Control',
+          description: "Graduate Teaching Assistant. Supported the course through lectures, TA hours, and grading, and designed a Reusable Learning Object on coordinate frames and transformations to build students&#39; spatial visualization skills for robotic manipulation. [RLO outcome](https://docs.google.com/presentation/d/e/2PACX-1vS4J6xc0o-a4ClP4FhgmiEPf0Tnrnx8v05uv0AzRiPB315D_HmlzVputLp11gNiLD5YaHJ0dfAFJvQQ/pub?start=false&amp;loop=false&amp;delayms=3000)",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/cail-dl-llm-workshop/";
-            },},{id: "teachings-2nd-workshop-on-deep-learning-code-management",
-          title: '2nd Workshop on Deep Learning Code Management',
-          description: "Two-day hands-on workshop for research interns and Neural Networks students at IUB — VGG16 for image classification, NLP with LSTM/Transformer/BERT, project management in VS Code, and experiment tracking with wandb.ai and Lightning.ai. Organised with Dr. AKM Mahbubur Rahman; I prepared materials and assisted the hands-on sessions. [Event page](https://ccds.ai/event/workshop-on-hands-on-deep-learning-coding-code-management-2/) · [More](/activities/workshop-deep-learning-dec-24/)",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/dl-code-management-2/";
+              window.location.href = "/teachings/umass-compsci-403/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%61%68%69%72%73%61%64%69%6B%6D%6F%6E%6F%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%6D%6F%6E%6F%6E@%75%6D%61%73%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("https://drive.google.com/file/d/1a2jRV6-zb1kC7ImiGlIgou-PJCvrqMeK/view?usp=sharing", "_blank");
+          window.open("/assets/pdf/CV-jahir-sadik-monon.pdf", "_blank");
         },
       },{
         id: 'social-scholar',
