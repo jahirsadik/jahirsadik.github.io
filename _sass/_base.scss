@@ -210,7 +210,6 @@ ul.task-list input[type="checkbox"] {
     font-size: 0.72rem;
     line-height: 1.5;
     color: var(--global-text-color-light);
-    opacity: 0.65;
 
     p {
       display: block;
@@ -265,7 +264,7 @@ ul.task-list input[type="checkbox"] {
 
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
@@ -769,12 +768,13 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(--global-accent-fill);
+          border: 1px solid var(--global-accent-border);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: var(--global-theme-color) !important;
 
           a {
-            color: white;
+            color: inherit;
 
             &:hover {
               text-decoration: none;
@@ -1601,4 +1601,48 @@ table.honors {
 h2.section-gap {
   margin-top: 3.5rem !important;
   margin-bottom: 1.25rem;
+}
+
+// ---------------------------------------------------------------------------
+// Link treatment
+//   Body links: accent, faint accent underline, solid underline on hover.
+//   Nav links: no underline; accent only on hover or for the active page.
+// ---------------------------------------------------------------------------
+
+.post article a {
+  text-decoration: underline;
+  text-decoration-color: var(--global-link-underline-color);
+  text-underline-offset: 3px;
+
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration-color: currentColor;
+  }
+}
+
+// Non-prose links keep their own treatment
+.post article {
+  .btn,
+  .card a,
+  .course-title a,
+  .author a,
+  .badges a,
+  .abbr a,
+  figure a,
+  .social a {
+    text-decoration: none;
+  }
+
+  a.name-pronounce {
+    text-decoration-color: currentColor;
+  }
+}
+
+nav a,
+.navbar a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
 }

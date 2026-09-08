@@ -1,18 +1,16 @@
+# Venue links shown on the publications page.
+# Colours are intentionally omitted so badges use the theme accent fill.
+
 "AAMAS":
-  url: https://aamas2025.org/
-  color: "#00369f"
+  url: https://www.ifaamas.org/
 
 "HRI":
   url: https://humanrobotinteraction.org/2026/
-  color: "#b3001b"
 
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#6a1b9a"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#b31b1b"
 
 "Dataset":
-  color: "#009f36"
