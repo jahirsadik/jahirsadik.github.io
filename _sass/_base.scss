@@ -207,6 +207,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
+    text-align: center;
     font-size: 0.72rem;
     line-height: 1.5;
     color: var(--global-text-color-light);
@@ -1548,11 +1549,20 @@ mjx-container[jax="CHTML"][display="true"] {
 .post-header .desc {
   color: var(--global-text-color-light);
   font-size: 0.9rem;
+  margin-bottom: 2.5rem;
 }
 
-// About page: breathing room between bio, news, publications and social icons
-.about-section {
-  margin-top: 3rem;
+// About page: breathing room between bio, news, publications and social icons.
+// Scoped under `.post article` to outrank its `h2 { margin-top: 2.5rem }`.
+.post article {
+  h2.about-section,
+  .section-head.about-section {
+    margin-top: 2rem;
+  }
+
+  .section-head h2 {
+    margin: 0;
+  }
 }
 
 .about-more {
