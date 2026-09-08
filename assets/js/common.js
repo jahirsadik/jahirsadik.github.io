@@ -1,20 +1,18 @@
 $(document).ready(function () {
   // add toggle functionality to abstract, award and bibtex buttons
-  $("a.abstract").click(function () {
-    $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
-  });
-  $("a.award").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
-  });
-  $("a.bibtex").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
-  });
+  // (one entry = the .col-sm-8/.col-sm-10 wrapper; only one of the three panes is open at a time)
+  const bindReveal = (btnClass, paneClass) =>
+    $("a." + btnClass).on("click", function (e) {
+      e.preventDefault();
+      const entry = $(this).closest('[class*="col-sm-"]');
+      const pane = entry.find("." + paneClass + ".hidden");
+      const wasOpen = pane.hasClass("open");
+      entry.find(".abstract.hidden, .award.hidden, .bibtex.hidden").removeClass("open");
+      if (!wasOpen) pane.addClass("open");
+    });
+  bindReveal("abstract", "abstract");
+  bindReveal("award", "award");
+  bindReveal("bibtex", "bibtex");
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc

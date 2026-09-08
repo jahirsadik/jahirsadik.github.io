@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello, I'm <a href="https://www.name-coach.com/jahirsadik-monon" class="name-pronounce" title="How to pronounce my name">Jahir</a>. I am a CS MS/PhD student at the [University of Massachusetts Amherst](https://www.umass.edu/robotics/), advised by [Dr. Donghyun Kim](https://www.umass.edu/robotics/people/donghyun-kim) in the Dynamic and Autonomous Robotic Systems ([DARoS](https://www.umass.edu/robotics/daros)) Lab.
+Hello, I'm <a href="https://www.name-coach.com/jahirsadik-monon" class="name-pronounce" title="How to pronounce my name">Jahir</a>, a second-year MS/PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/robotics/), advised by [Dr. Donghyun Kim](https://www.umass.edu/robotics/people/donghyun-kim) in the Dynamic and Autonomous Robotic Systems ([DARoS](https://www.umass.edu/robotics/daros)) Lab.
 
 I work on **embodied intelligence for assistive navigation** for blind and low-vision travelers: reinforcement learning and vision-language-action policies that operate under partial observability and within the memory, latency, and power constraints of onboard compute. Much of this is part of our lab's [guide dog robot](https://www.umass.edu/robotics/daros/research/guide-dog-robot) project.
 
