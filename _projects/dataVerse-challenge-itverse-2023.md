@@ -1,0 +1,28 @@
+---
+layout: page
+title: "Finalists at DataVerse Challenge - ITVerse 2023"
+description: "Finalists in the Dataverse-ITVerse 'Bengali Text to IPA (International Phonetic Alphabet) Transcription Competition 2023' powered by bengali.ai & Cefalo."
+img: assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-1.jpg
+importance: 10
+category: achievements
+date_text: "November 4, 2023"
+venue: "Institute of Information Technology, University of Dhaka"
+redirect_from:
+  - /talks/cefalo-dataverse-itverse
+---
+
+**November 4, 2023** &middot; Institute of Information Technology, University of Dhaka
+
+The goal of this competition was to recognize model IPA transcription from Bengali texts, and to improve Bengali computational linguistics and NLP research using the first Bengali sentence level IPA transcription dataset from [bengali.ai](https://bengali.ai/). Bengali Text to IPA (International Phonetic Alphabet) Transcription is an area that has seen relatively limited development compared to other languages, despite Bengali being one of the world's most widely spoken native languages. There is a growing need for automated systems that can accurately convert Bengali text into IPA notation due to the vast audience and various applications in linguistics, language learning, and phonetic research. Our submission was among the first open-source IPA transcription methods for Bengali. We built a model trained on a linguist validated dataset containing Bengali text from different domains. The test set contained numbers, loan-words and domain-specific words to add to the challenge. My team consisted of me, [Abdullah Arean](https://www.linkedin.com/in/abdullaharean?originalSubdomain=bd), and [Md Fahim](https://www.linkedin.com/in/md-fahim-966330184?originalSubdomain=bd) bhaia. Our team were among the top 10 finalists for this kaggle competition involving 62 teams from Bangladesh. The competition was organized by IIT Software Engineers' Community (IITSEC) as they partnered with bengali.ai to advance research in Bengali text to IPA domain.
+
+[More information about the competition here](https://www.kaggle.com/competitions/dataverse_2023/overview)
+
+## Some photos from the event
+
+![dataverse-image-1](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-1.jpg)
+
+![dataverse-image-2](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-2.jpg)
+
+![dataverse-image-3](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-3.jpg)
+
+![dataverse-image-4](/assets/img/dataVerse-challenge-itverse-2023/dataVerse-challenge-itverse-2023-4.jpg)

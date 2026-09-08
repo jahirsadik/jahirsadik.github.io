@@ -1,16 +1,19 @@
 ---
-layout: archive
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
+title: publications
+description: papers, datasets and preprints in reverse chronological order.
+nav: true
+nav_order: 1
+redirect_from:
+  - /publication/cohet
+  - /publication/walkability
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- _pages/publications.md -->
 
-{% include base_path %}
+<div class="publications">
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% bibliography %}
+
+</div>
