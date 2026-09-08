@@ -9,6 +9,6 @@ term: Spring – Summer 2024
 location: Independent University Bangladesh
 ---
 
-**Lecturer**, February – July 2024 · [Coding for All initiative](http://iub.ac.bd/about/special-initiatives)
+**Lecturer**, February – July 2024 · [Coding for All initiative](https://iub.ac.bd/about/special-initiatives)
 
 Lectured CIS-101 students on basic Python programming, application development, and introductory AI as part of the Coding for All initiative at Independent University Bangladesh.
