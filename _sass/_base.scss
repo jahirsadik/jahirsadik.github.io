@@ -1547,7 +1547,7 @@ mjx-container[jax="CHTML"][display="true"] {
 // About page: subtitle reads as secondary info
 .post-header .desc {
   color: var(--global-text-color-light);
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 // About page: breathing room between bio, news, publications and social icons
@@ -1644,5 +1644,74 @@ nav a,
 
   &:hover {
     text-decoration: none;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Venue badges: one hue per venue, kept at the same tone as the accent so the
+// set reads as a family. Fill/border/text swap with the theme.
+// ---------------------------------------------------------------------------
+
+.publications ol.bibliography li .abbr abbr {
+  &.venue-neurips {
+    background-color: #e9ebf5;
+    border-color: #bcc2e0;
+    color: #3a4380 !important;
+  }
+
+  &.venue-hri {
+    background-color: #f5ece8;
+    border-color: #e0c8bc;
+    color: #7a4a35 !important;
+  }
+
+  &.venue-arxiv {
+    background-color: #f1eee6;
+    border-color: #d2c8b3;
+    color: #6b5a27 !important;
+  }
+
+  &.venue-aamas {
+    background-color: #e6eff1;
+    border-color: #b3ccd2;
+    color: #275e6b !important;
+  }
+
+  &.venue-dataset {
+    background-color: #e9f0eb;
+    border-color: #b7cfc0;
+    color: #2a623d !important;
+  }
+}
+
+html[data-theme="dark"] .publications ol.bibliography li .abbr abbr {
+  &.venue-neurips {
+    background-color: #2a2e3b;
+    border-color: #3d455b;
+    color: #8f9cc4 !important;
+  }
+
+  &.venue-hri {
+    background-color: #3b302a;
+    border-color: #5b483d;
+    color: #b4917f !important;
+  }
+
+  &.venue-arxiv {
+    background-color: #3b392a;
+    border-color: #5b563d;
+    color: #b4ac7f !important;
+  }
+
+  &.venue-aamas {
+    background-color: #2a363b;
+    border-color: #3d525b;
+    color: #7fa6b4 !important;
+  }
+
+  &.venue-dataset {
+    background-color: #2a3b33;
+    border-color: #3d5b4e;
+    color: #7fb49a !important;
   }
 }

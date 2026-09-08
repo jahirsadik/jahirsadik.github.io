@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, <a href="https://www.umass.edu/robotics/daros">DARoS Lab</a>, University of Massachusetts Amherst
+subtitle: PhD student, Computer Science, University of Massachusetts Amherst
 
 profile:
   align: right
