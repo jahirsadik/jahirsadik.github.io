@@ -9,13 +9,13 @@ last_name: Monon
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jahir Sadik Monon's personal academic website. Research Assistant at CCDS, IUB. Reinforcement Learning, multi-agent systems, robot learning.
+  Jahir Sadik Monon's personal academic website. PhD student at UMass Amherst (DARoS Lab) working on assistive robot navigation, reinforcement learning and vision-language-action policies.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jahir sadik monon, reinforcement learning, multi-agent, robot learning, ccds, university of dhaka # add your own keywords or leave empty
+keywords: jahir sadik monon, umass amherst, daros lab, assistive robotics, guide dog robot, reinforcement learning, vision-language-action, multi-agent # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jahirsadik.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

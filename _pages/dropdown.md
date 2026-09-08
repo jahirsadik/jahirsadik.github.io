@@ -7,6 +7,8 @@ dropdown: true
 children:
   - title: activities
     permalink: /activities/
+  - title: workshops
+    permalink: /activities/#workshops
   - title: presentations & blogs
     permalink: /blog/
   - title: divider
