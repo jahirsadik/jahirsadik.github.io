@@ -7,6 +7,7 @@ subtitle: PhD student, Computer Science, University of Massachusetts Amherst
 profile:
   align: right
   image: prof_pic.jpg
+  image_dark: prof_pic_dark.png # shown when the dark theme is active
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>LGRC A308, Manning CICS, UMass</p>
