@@ -7,7 +7,7 @@ first_name: Jahir
 middle_name: Sadik
 last_name: Monon
 contact_note: >
-  Email is the best way to reach me.
+  Always happy to discuss potential research or industry collaborations.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jahir Sadik Monon's personal academic website. PhD student at UMass Amherst (DARoS Lab) working on assistive robot navigation, reinforcement learning and vision-language-action policies.
 footer_text: >
@@ -53,7 +53,7 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true

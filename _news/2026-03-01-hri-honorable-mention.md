@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**GuideNav** received an **Honorable Mention** (Systems Track, top 3.6% of accepted papers) at [HRI 2026](https://humanrobotinteraction.org/2026/award-nominees/).
+Our paper [GuideNav](https://arxiv.org/abs/2512.06147) — my first as a graduate student — received an **Honorable Mention** (Systems Track, top 3.6% of accepted papers) at [HRI 2026](https://humanrobotinteraction.org/2026/award-nominees/).

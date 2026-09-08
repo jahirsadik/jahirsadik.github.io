@@ -9,7 +9,7 @@ nav_order: 2
 
 {% include courses.liquid %}
 
-## advising
+<h2 class="section-gap">advising</h2>
 
 <div class="entry-list">
   <div class="course-item">
@@ -24,6 +24,6 @@ nav_order: 2
   </div>
 </div>
 
-## workshops
+<h2 class="section-gap">workshops</h2>
 
 Workshops I have lectured in or helped organise (deep learning, LLMs, code management) are listed under [activities → workshops](/activities/#workshops).

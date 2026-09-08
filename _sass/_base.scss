@@ -19,6 +19,12 @@ strong {
   color: var(--global-text-color);
 }
 
+// bold text inside a link keeps the link colour
+a strong,
+a b {
+  color: inherit;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -201,11 +207,15 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-size: 0.72rem;
+    line-height: 1.5;
+    color: var(--global-text-color-light);
+    opacity: 0.65;
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
+      color: inherit;
     }
   }
 }
@@ -418,6 +428,8 @@ ul.task-list input[type="checkbox"] {
     font-size: 1.7rem;
 
     a {
+      margin: 0 0.45rem;
+
       img {
         width: 3.2rem;
         height: 3.2rem;
@@ -1583,4 +1595,10 @@ table.honors {
     text-align: right;
     color: var(--global-text-color-light);
   }
+}
+
+// Teaching page: clear gap before/after the advising & workshops headings
+h2.section-gap {
+  margin-top: 3.5rem !important;
+  margin-bottom: 1.25rem;
 }
