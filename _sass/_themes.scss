@@ -6,22 +6,22 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #fff3e7;
-  --global-code-bg-color: rgba(6, 64, 43, 0.06);
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #2a623d; // accent (the dark #06402b reads as black at text size)
-  --global-hover-color: #06402b;
-  --global-accent-fill: #e9f0eb;
-  --global-accent-border: #b7cfc0;
-  --global-link-underline-color: rgba(42, 98, 61, 0.35);
+  --global-bg-color: #fbf3e6;
+  --global-code-bg-color: #f3e8d4;
+  --global-text-color: #141414;
+  --global-text-color-light: #6b6355;
+  --global-theme-color: #9c4221;
+  --global-hover-color: #7c3a17;
+  --global-accent-fill: #f0dfce;
+  --global-accent-border: #d9b99f;
+  --global-link-underline-color: rgba(156, 66, 33, 0.35);
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.22);
-  --global-card-bg-color: #fff3e7;
+  --global-divider-color: #e3d6be;
+  --global-card-bg-color: #f3e8d4;
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($black-color, "red", $space: rgb)},

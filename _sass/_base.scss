@@ -1654,33 +1654,33 @@ nav a,
 
 .publications ol.bibliography li .abbr abbr {
   &.venue-neurips {
-    background-color: #e9ebf5;
-    border-color: #bcc2e0;
-    color: #3a4380 !important;
+    background-color: #e8e5f2;
+    border-color: #c6bede;
+    color: #443c7c !important;
   }
 
   &.venue-hri {
-    background-color: #f5ece8;
-    border-color: #e0c8bc;
-    color: #7a4a35 !important;
+    background-color: #f3e0dc;
+    border-color: #ddb8b0;
+    color: #8a3a33 !important;
   }
 
   &.venue-arxiv {
-    background-color: #f1eee6;
-    border-color: #d2c8b3;
-    color: #6b5a27 !important;
+    background-color: #f1ead3;
+    border-color: #d6c68f;
+    color: #6b5a1f !important;
   }
 
   &.venue-aamas {
-    background-color: #e6eff1;
-    border-color: #b3ccd2;
-    color: #275e6b !important;
+    background-color: #e1eceb;
+    border-color: #adcbc8;
+    color: #245c5e !important;
   }
 
   &.venue-dataset {
-    background-color: #e9f0eb;
-    border-color: #b7cfc0;
-    color: #2a623d !important;
+    background-color: #e5eee3;
+    border-color: #b9d0b5;
+    color: #2f6136 !important;
   }
 }
 
@@ -1713,5 +1713,40 @@ html[data-theme="dark"] .publications ol.bibliography li .abbr abbr {
     background-color: #2a3b33;
     border-color: #3d5b4e;
     color: #7fb49a !important;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Profile photo: light and dark variants stacked in one cell and cross-faded
+// on the same 750ms clock as the theme transition.
+// ---------------------------------------------------------------------------
+
+.profile .profile-images {
+  display: grid;
+
+  .profile-img {
+    grid-area: 1 / 1;
+    transition: opacity 750ms ease;
+  }
+
+  .profile-img-light {
+    opacity: 1;
+  }
+
+  .profile-img-dark {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+html[data-theme="dark"] .profile .profile-images {
+  .profile-img-light {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .profile-img-dark {
+    opacity: 1;
+    pointer-events: auto;
   }
 }
