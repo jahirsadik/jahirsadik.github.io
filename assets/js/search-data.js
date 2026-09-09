@@ -263,7 +263,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV-jahir-sadik-monon.pdf", "_blank");
+          window.open("/assets/pdf/CV-jahir-sadik-monon-sep9.pdf", "_blank");
         },
       },{
         id: 'social-scholar',
