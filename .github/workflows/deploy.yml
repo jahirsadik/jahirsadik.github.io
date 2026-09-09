@@ -90,6 +90,10 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Mark output as pre-built 🚫
+        # Stops GitHub Pages re-running Jekyll over the already-built site,
+        # which would silently drop any path beginning with an underscore.
+        run: touch _site/.nojekyll
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
