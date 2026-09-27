@@ -166,6 +166,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-guidenav-my-first-as-a-graduate-student-received-an-honorable-mention-systems-track-top-3-6-of-accepted-papers-at-hri-2026",
           title: 'Our paper GuideNav — my first as a graduate student — received an...',
           description: "",
+          section: "News",},{id: "news-our-paper-navable-a-large-scale-dataset-and-synthetic-data-generation-pipeline-for-blind-navigation-was-accepted-at-neurips-2026-evaluations-and-datasets-track",
+          title: 'Our paper NavAble, a large-scale dataset and synthetic data generation pipeline for blind...',
+          description: "",
           section: "News",},{id: "projects-my-book-on-information-and-communications-technology-ict-got-published",
           title: 'My book on Information and Communications Technology (ICT) got published',
           description: "Co-authored book on ICT for entrance exams got published",
@@ -263,7 +266,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV-jahir-sadik-monon-sep9.pdf", "_blank");
+          window.open("/assets/pdf/CV-jahir-sadik-monon-sep27.pdf", "_blank");
         },
       },{
         id: 'social-scholar',
