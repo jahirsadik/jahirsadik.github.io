@@ -1575,6 +1575,50 @@ mjx-container[jax="CHTML"][display="true"] {
   margin-top: 3rem;
 }
 
+// Pin the contact strip to the bottom of the viewport so the links stay reachable
+// at any scroll position. Sits above the back-to-top button's 30px offset.
+.social.about-social {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  margin-top: 0;
+  padding: 0.55rem 1rem 0.5rem;
+  background-color: var(--global-bg-color);
+  border-top: 1px solid var(--global-divider-color);
+
+  .contact-icons a {
+    margin: 0 0.4rem;
+  }
+
+  .contact-note {
+    margin-top: 0.1rem;
+  }
+}
+
+// Keep page content clear of the pinned strip, and lift the back-to-top button
+// so it doesn't sit on top of it.
+body:has(.social.about-social) {
+  padding-bottom: 6.5rem;
+
+  #back-to-top {
+    bottom: calc(#{$back-to-top-bottom} + 5rem);
+  }
+}
+
+// On narrow screens the contact note wraps, so the strip grows taller.
+@media (max-width: 575.98px) {
+  .social.about-social .contact-note {
+    font-size: 0.72rem;
+    line-height: 1.35;
+  }
+
+  body:has(.social.about-social) {
+    padding-bottom: 8.5rem;
+  }
+}
+
 // Pronunciation link on the name
 a.name-pronounce {
   color: inherit;
