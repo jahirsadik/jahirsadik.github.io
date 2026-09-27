@@ -5,5 +5,5 @@ permalink: /cv/
 nav: true
 nav_order: 3
 sitemap: false
-redirect_to: /assets/pdf/CV-jahir-sadik-monon-sep9.pdf
+redirect_to: /assets/pdf/CV-jahir-sadik-monon-sep27.pdf
 ---

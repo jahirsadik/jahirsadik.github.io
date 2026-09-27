@@ -81,7 +81,7 @@ CV and external posts cite those paths — don't drop them when editing front ma
 - **Presentation posts keep only the title slide** — never dump every slide as an
   image (the repo previously carried ~270 of them, 93 MB).
 - **The CV is a local PDF** in `assets/pdf/`, currently
-  `CV-jahir-sadik-monon-sep9.pdf` (not a Drive link). Jahir versions the filename by
+  `CV-jahir-sadik-monon-sep27.pdf` (not a Drive link). Jahir versions the filename by
   date, so a CV update means **editing both references** or `/cv/` and the CV icon
   404: `_pages/cv.md` (`redirect_to:`) and `_data/socials.yml` (`cv_pdf:`).
 - Body headings on subpages are **lowercase** ("advising", "workshops").
