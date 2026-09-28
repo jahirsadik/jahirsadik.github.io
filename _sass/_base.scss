@@ -1835,3 +1835,9 @@ html[data-theme="dark"] .profile .profile-images {
 html[data-theme="dark"] .section-head time {
   color: #6e6e6e;
 }
+
+// News box on the about page: Bootstrap's .table-responsive only declares
+// overflow-x, leaving overflow-y to the spec's implicit promotion. State it.
+.news .table-responsive {
+  overflow-y: auto;
+}
