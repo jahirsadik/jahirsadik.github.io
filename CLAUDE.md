@@ -89,7 +89,7 @@ CV and external posts cite those paths — don't drop them when editing front ma
 
 ## Design system
 
-Two themes only (light ⇄ dark, **light is the default**); there is no "system" state.
+Two themes only (light ⇄ dark, **dark is the default**); there is no "system" state.
 Both define the same custom properties in `_sass/_themes.scss` so they swap cleanly.
 
 | Token | Light | Dark |
