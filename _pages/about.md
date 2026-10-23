@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello, I'm <a href="https://www.name-coach.com/jahirsadik-monon" class="name-pronounce" title="How to pronounce my name">Jahir</a>, a second-year MS/PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/robotics/), advised by Dr. Shlomo Zilberstein in the [Resource-Bounded Reasoning](https://groups.cs.umass.edu/shlomo/) Lab and co-advised by [Dr. Donghyun Kim](https://www.umass.edu/robotics/people/donghyun-kim) in the Dynamic and Autonomous Robotic Systems ([DARoS](https://www.umass.edu/robotics/daros)) Lab.
+Hello, I'm <a href="https://www.name-coach.com/jahirsadik-monon" class="name-pronounce" title="How to pronounce my name">Jahir</a>, a second-year MS/PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/robotics/), advised by [Dr. Shlomo Zilberstein](https://www.cics.umass.edu/about/directory/shlomo-zilberstein) in the [Resource-Bounded Reasoning](https://groups.cs.umass.edu/shlomo/) Lab and co-advised by [Dr. Donghyun Kim](https://www.umass.edu/robotics/people/donghyun-kim) in the Dynamic and Autonomous Robotic Systems ([DARoS](https://www.umass.edu/robotics/daros)) Lab.
 
 I study **how embodied agents can make good decisions under limited onboard computation**. My work spans VLA-based navigation for assistive robots — much of it part of our lab's [guide dog robot](https://www.umass.edu/robotics/daros/research/guide-dog-robot) project — and perception datasets with synthetic data pipelines for blind and low-vision travelers. I am now moving toward small VLA models and multi-agent collaboration among compact foundation models, building on my earlier work in decentralized multi-agent RL and representation learning.
 

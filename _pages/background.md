@@ -16,7 +16,7 @@ _This is a summary — see my [CV](/cv/) for the full version._
   </div>
   <div class="col-9 col-sm-10">
     <b>MS/PhD in Computer Science</b>, September 2025 – present<br>
-    University of Massachusetts Amherst · Advisor: Dr. Shlomo Zilberstein (<a href="https://groups.cs.umass.edu/shlomo/">RBR Lab</a>) · Co-advisor: <a href="https://www.umass.edu/robotics/people/donghyun-kim">Dr. Donghyun Kim</a> (<a href="https://www.umass.edu/robotics/daros">DARoS Lab</a>)<br>
+    University of Massachusetts Amherst · Advisor: <a href="https://www.cics.umass.edu/about/directory/shlomo-zilberstein">Dr. Shlomo Zilberstein</a> (<a href="https://groups.cs.umass.edu/shlomo/">RBR Lab</a>) · Co-advisor: <a href="https://www.umass.edu/robotics/people/donghyun-kim">Dr. Donghyun Kim</a> (<a href="https://www.umass.edu/robotics/daros">DARoS Lab</a>)<br>
     <i>Research focus: resource-efficient embodied AI, multi-agent collaboration, VLA and world models.</i>
   </div>
 </div>
