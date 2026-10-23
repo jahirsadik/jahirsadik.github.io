@@ -15,8 +15,8 @@ _This is a summary — see my [CV](/cv/) for the full version._
     {% include figure.liquid path="assets/img/UMass_Amherst_seal.png" class="img-fluid" alt="University of Massachusetts Amherst" %}
   </div>
   <div class="col-9 col-sm-10">
-    <b>MS/PhD in Computer Science</b>, September 2025 – present (expected 2030)<br>
-    University of Massachusetts Amherst · Advisor: <a href="https://groups.cs.umass.edu/shlomo/">Dr. Shlomo Zilberstein</a> · Co-advisor: <a href="https://www.umass.edu/robotics/people/donghyun-kim">Dr. Donghyun Kim</a> (<a href="https://www.umass.edu/robotics/daros">DARoS Lab</a>)<br>
+    <b>MS/PhD in Computer Science</b>, September 2025 – present<br>
+    University of Massachusetts Amherst · Advisor: Dr. Shlomo Zilberstein (<a href="https://groups.cs.umass.edu/shlomo/">RBR Lab</a>) · Co-advisor: <a href="https://www.umass.edu/robotics/people/donghyun-kim">Dr. Donghyun Kim</a> (<a href="https://www.umass.edu/robotics/daros">DARoS Lab</a>)<br>
     <i>Research focus: resource-efficient embodied AI, multi-agent collaboration, VLA and world models.</i>
   </div>
 </div>
@@ -56,7 +56,7 @@ _This is a summary — see my [CV](/cv/) for the full version._
 
 **Graduate Research Assistant**, [DARoS Lab](https://www.umass.edu/robotics/daros), UMass Amherst — September 2025 – present
 - Designed RL/VLA-based navigation for quadruped guide robots and a large-scale segmentation dataset with a synthetic data pipeline for blind and low-vision people, benchmarked on foundation models (e.g. SAM 3); worked on VLA-based manipulation for a custom 7-DoF arm.
-- Built IsaacSim environments to evaluate VLA memory strategies for long-horizon navigation, in a joint project with the Resource-Bounded Reasoning Lab on resource-efficient communication among small VLAs.
+- Built IsaacSim environments to evaluate VLA memory strategies for long-horizon navigation, in a joint project with the [Resource-Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/) on resource-efficient communication among small VLAs.
 
 **Research Assistant**, [CCDS](https://ccds.ai/people/ra/), Independent University Bangladesh — February 2024 – June 2025
 - VLM-based agent-controllable representations via multi-step inverse models for principled offline RL with rich exogenous information — advised by [Dr. Riashat Islam](https://riashat.github.io/) (Mila, McGill University & Microsoft Research).
