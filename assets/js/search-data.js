@@ -266,7 +266,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV-jahir-sadik-monon-sep27.pdf", "_blank");
+          window.open("/assets/pdf/CV-jahir-sadik-monon-oct22.pdf", "_blank");
         },
       },{
         id: 'social-scholar',
