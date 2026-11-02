@@ -89,8 +89,9 @@ CV and external posts cite those paths — don't drop them when editing front ma
 
 ## Design system
 
-The default theme follows the visitor's system preference. The toggle cycles through
-system → light → dark; explicit choices persist across visits.
+The default theme follows the visitor's system preference. The toggle shows only
+light or dark and always switches to the opposite displayed theme; explicit choices
+persist across visits. There is no system-mode button or search command.
 Light and dark define the same custom properties in `_sass/_themes.scss` so they swap cleanly.
 
 | Token | Light | Dark |

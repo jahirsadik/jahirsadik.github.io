@@ -1,24 +1,13 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
-// Cycle through system preference, light, and dark.
+// Always switch to the opposite of the currently displayed theme.
 let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  const nextTheme = { system: "light", light: "dark", dark: "system" };
-  setThemeSetting(nextTheme[themeSetting]);
+  setThemeSetting(determineComputedTheme() === "dark" ? "light" : "dark");
 };
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
   localStorage.setItem("theme", themeSetting);
-
-  document.documentElement.setAttribute("data-theme-setting", themeSetting);
-
-  const modeToggle = document.getElementById("light-toggle");
-  if (modeToggle) {
-    const label = `Theme: ${themeSetting}. Change theme`;
-    modeToggle.title = label;
-    modeToggle.setAttribute("aria-label", label);
-  }
 
   applyTheme();
 };
@@ -59,6 +48,13 @@ let applyTheme = () => {
   }
 
   document.documentElement.setAttribute("data-theme", theme);
+
+  const modeToggle = document.getElementById("light-toggle");
+  if (modeToggle) {
+    const label = `Switch to ${theme === "dark" ? "light" : "dark"} theme`;
+    modeToggle.title = label;
+    modeToggle.setAttribute("aria-label", label);
+  }
 
   // Add class to tables.
   let tables = document.getElementsByTagName("table");
@@ -254,8 +250,7 @@ let transTheme = () => {
   }, 500);
 };
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// Use a saved preference, or follow the system until a theme is chosen.
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (!["system", "dark", "light"].includes(themeSetting)) {
@@ -281,14 +276,12 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
-  let themeSetting = determineThemeSetting();
-
-  setThemeSetting(themeSetting);
+  applyTheme();
 
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
-    setThemeSetting(determineThemeSetting());
+    applyTheme();
 
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
