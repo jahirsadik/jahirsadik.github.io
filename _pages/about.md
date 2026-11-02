@@ -23,6 +23,8 @@ announcements:
 
 latest_posts:
   enabled: false
+
+internship_note: I am exploring research internship opportunities for Summer 2027.
 ---
 
 Hello, I'm <a href="https://www.name-coach.com/jahirsadik-monon" class="name-pronounce" title="How to pronounce my name">Jahir</a>, a second-year MS/PhD student in Computer Science at the [University of Massachusetts Amherst](https://www.umass.edu/robotics/), advised by [Dr. Shlomo Zilberstein](https://www.cics.umass.edu/about/directory/shlomo-zilberstein) in the [Resource-Bounded Reasoning](https://groups.cs.umass.edu/shlomo/) Lab and co-advised by [Dr. Donghyun Kim](https://www.umass.edu/robotics/people/donghyun-kim) in the Dynamic and Autonomous Robotic Systems ([DARoS](https://www.umass.edu/robotics/daros)) Lab.

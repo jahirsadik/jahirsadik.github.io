@@ -58,6 +58,10 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    {% if page.internship_note %}
+      <p class="internship-note">{{ page.internship_note }}</p>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <div class="section-head about-section">

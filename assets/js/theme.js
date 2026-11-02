@@ -1,13 +1,10 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
-// Toggle between dark and light (no "system" state on this site).
+// Cycle through system preference, light, and dark.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
-  if (themeSetting == "light") {
-    setThemeSetting("dark");
-  } else {
-    setThemeSetting("light");
-  }
+  const nextTheme = { system: "light", light: "dark", dark: "system" };
+  setThemeSetting(nextTheme[themeSetting]);
 };
 
 // Change the theme setting and apply the theme.
@@ -15,6 +12,13 @@ let setThemeSetting = (themeSetting) => {
   localStorage.setItem("theme", themeSetting);
 
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
+
+  const modeToggle = document.getElementById("light-toggle");
+  if (modeToggle) {
+    const label = `Theme: ${themeSetting}. Change theme`;
+    modeToggle.title = label;
+    modeToggle.setAttribute("aria-label", label);
+  }
 
   applyTheme();
 };
@@ -254,9 +258,8 @@ let transTheme = () => {
 // "system". Default is "system".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  // Dark is the default; anything else stored (e.g. an old "system" value) falls back to it.
-  if (themeSetting != "dark" && themeSetting != "light") {
-    themeSetting = "dark";
+  if (!["system", "dark", "light"].includes(themeSetting)) {
+    themeSetting = "system";
   }
   return themeSetting;
 };
@@ -285,6 +288,7 @@ let initTheme = () => {
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
+    setThemeSetting(determineThemeSetting());
 
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
@@ -292,8 +296,8 @@ let initTheme = () => {
   });
 
   // Add event listener to the system theme preference change.
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
-    applyTheme();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+    if (determineThemeSetting() === "system") applyTheme();
   });
 };
 

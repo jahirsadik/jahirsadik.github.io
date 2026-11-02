@@ -68,8 +68,8 @@ CV and external posts cite those paths — don't drop them when editing front ma
   footnote. `_plugins/hide-custom-bibtex.rb` strips those markers from the BibTeX
   shown behind the **Bib** button — keep its character class in sync with the one in
   `_layouts/bib.liquid`.
-- **Publication previews are uniform.** All images in `publication_preview/` are
-  900×500 (centre-cropped) so every entry occupies the same space.
+- **Publication previews are landscape.** Static images in `publication_preview/`
+  are 900×500 (centre-cropped). Preserve animated GIFs at their native resolution.
 - **Photos never overflow horizontally.** Use responsive grids, not raw `<img width>`:
   ```liquid
   <div class="row justify-content-center">
@@ -89,8 +89,9 @@ CV and external posts cite those paths — don't drop them when editing front ma
 
 ## Design system
 
-Two themes only (light ⇄ dark, **dark is the default**); there is no "system" state.
-Both define the same custom properties in `_sass/_themes.scss` so they swap cleanly.
+The default theme follows the visitor's system preference. The toggle cycles through
+system → light → dark; explicit choices persist across visits.
+Light and dark define the same custom properties in `_sass/_themes.scss` so they swap cleanly.
 
 | Token | Light | Dark |
 |---|---|---|
