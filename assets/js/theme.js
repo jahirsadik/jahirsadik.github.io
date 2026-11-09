@@ -250,30 +250,13 @@ let transTheme = () => {
   }, 500);
 };
 
-// Use a saved preference, or follow the system until a theme is chosen.
+// Use a saved light/dark preference, defaulting to light.
 let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
-  if (!["system", "dark", "light"].includes(themeSetting)) {
-    themeSetting = "system";
-  }
-  return themeSetting;
+  return localStorage.getItem("theme") === "dark" ? "dark" : "light";
 };
 
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
-let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      return "dark";
-    } else {
-      return "light";
-    }
-  } else {
-    return themeSetting;
-  }
-};
+// Both theme helpers return the selected light or dark theme.
+let determineComputedTheme = () => determineThemeSetting();
 
 let initTheme = () => {
   applyTheme();
@@ -288,10 +271,6 @@ let initTheme = () => {
     });
   });
 
-  // Add event listener to the system theme preference change.
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
-    if (determineThemeSetting() === "system") applyTheme();
-  });
 };
 
 // Get the appropriate background color for Google Calendar based on current theme
