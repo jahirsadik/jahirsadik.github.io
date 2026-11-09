@@ -44,6 +44,9 @@ edit `gh-pages` by hand.** The previous academicpages version of the site is pre
 on the `academicpages-archive` branch.
 
 Keep third-party GitHub Actions pinned to a release tag, never a moving branch.
+Deployment uses `ubuntu-24.04` with Ruby `3.3.5`. Verify that a prebuilt Ruby exists
+for the runner before changing either; `ubuntu-latest` moved to 26.04, which does
+not provide this Ruby patch version.
 
 ## Where content lives
 
